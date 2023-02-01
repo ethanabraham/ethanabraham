@@ -38,3 +38,6 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://instagram.com/ethanabraham_xi" target="blank"><img align="center" src="https://raw.githubusercontent.com/ethanabraham-xi/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ethanabraham" height="30" width="40" /></a>
   
 ![snake](https://github.com/ag3n7/ag3n7/blob/main/images/github-contribution-grid-snake.svg)
+  
+<img src="https://raw.githubusercontent.com/iamverysimp1e/iamverysimp1e/main/assets/gif1.gif" allign='left' width="455" height="405"/> <img src="https://raw.githubusercontent.com/iamverysimp1e/iamverysimp1e/main/assets/giphy.gif" allign='right' width="380" height="405"/> 
+
