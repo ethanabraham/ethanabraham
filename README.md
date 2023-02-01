@@ -39,5 +39,5 @@ This is the place where I opensource stuff and break things :rofl:
   
 ![snake](https://github.com/ag3n7/ag3n7/blob/main/images/github-contribution-grid-snake.svg)
   
-<img src="https://raw.githubusercontent.com/iamverysimp1e/iamverysimp1e/main/assets/gif1.gif" allign='left' width="455" height="405"/> <img src="https://raw.githubusercontent.com/iamverysimp1e/iamverysimp1e/main/assets/giphy.gif" allign='right' width="380" height="405"/> 
+<img src="https://raw.githubusercontent.com/ethanabraham-xi/ethanabraham-xi.github.io/main/gif1.gif" allign='left' width="455" height="405"/> <img src="https://raw.githubusercontent.com/ethanabraham-xi/ethanabraham-xi.github.io/main/giphy.gif" allign='right' width="380" height="405"/> 
 
