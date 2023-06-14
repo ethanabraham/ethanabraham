@@ -6,7 +6,7 @@ I have been building APIs and tools for Machine Learning and data systems, in La
 
 I created [**Hackers Punk**](https://www.hackerspunk.com/), [**Hacker Exploit**](https://www.hackerexploit.com/), [**Linux Leads**](https://www.linuxleads.com/), [**Space AI**](https://www.spaceai.dev/) and a bunch of other open source tools. 🚀
 
-I like to build/break things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖 
+I like to build/break things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
 
 I'm currently dedicating a high percentage of my time to Hackers Punk, Space AI, and my other open source projects. At the same time, I'm also helping a limited number of teams and organizations as an **external consultant**. If you would like to have my help with your team and product, feel free to [**contact me**](<mailto:infosec@ethanabraham.com>). 🤓
 
