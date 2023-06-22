@@ -24,7 +24,7 @@ This is the place where I opensource stuff and break things :rofl:
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Why Log4Shell is so dangerous and what (not) helps](https://www.ethanabraham.com/2022/10/why-log4shell-is-so-dangerous-and-what-not-helps.html)
-- [Google extends bug bounty program to Open Source dependencies](https://www.ethanabraham.com/2022/10/google-extends-bug-bounty-program-to-open-source-dependencies.html/)
+- [Google extends bug bounty program to Open Source dependencies](https://www.ethanabraham.com/2022/10/google-extends-bug-bounty-program-to-open-source-dependencies.html)
 - [Ransomware attack delays wage payment for weeks](https://www.ethanabraham.com/2022/02/ransomlware-attack-delays-wage-payment.html)
 - [Microsoft wants to rent security experts](https://www.ethanabraham.com/2022/05/microsoft-wants-to-rent-security-experts.html)
 <!-- BLOG-POST-LIST:END -->
