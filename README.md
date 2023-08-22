@@ -18,7 +18,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 &nbsp;I’m currently learning Flutter, Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
 - 📫 &nbsp;How to reach me: [@ethanabraham](https://twitter.com/ethanabraham_xi) or <a rel="me" href="https://infosec.exchange/@ethanabraham">infosec.exchange/@ethanabraham</a>
-- 👨‍💻 &nbsp;Read more about my projects at [ethanabfraham.com/p/projects.html](https://www.ethanabraham.com/p/projects.html)
+- 👨‍💻 &nbsp;Read more about my projects at [ethanabfraham.com/p/projects.html](https://www.ethanbraham.com/p/projects.html)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [ETNcry](https://account.xbox.com/en-us/profile?gamertag=ETNcry))
 
 📕 &nbsp;**Latest Blog Posts**
