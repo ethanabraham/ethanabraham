@@ -40,6 +40,3 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://dev.to/ethanabraham" target="blank"><img align="center" src="https://www.svgrepo.com/show/473650/hackerone.svg" alt="ethanabraham" height="30" width="40" /></a>
 <a href="https://twitter.com/ethanabraham_xi" target="blank"><img align="center" src="https://www.svgrepo.com/show/330097/bugcrowd.svg" alt="ethanabraham" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ethanabrahams" target="blank"><img align="center" src="https://www.svgrepo.com/show/330708/intigriti.svg" alt="ethanabraham" height="30" width="40" /></a>
-<a href="https://instagram.com/ethanabraham_xi" target="blank"><img align="center" src="https://raw.githubusercontent.com/ethanabraham-xi/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ethanabraham" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20741104/ethan-abraham" target="blank"><img align="center" src="https://raw.githubusercontent.com/ethanabraham-xi/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/ethanabraham_xi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/codecademy/codecademy-icon.svg" alt="ethanabraham" height="30" width="40" /></a>
