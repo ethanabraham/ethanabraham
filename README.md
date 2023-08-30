@@ -1,6 +1,6 @@
 ### Hey! I'm [@ethanabraham_xi](https://twitter.com/ethanabraham_xi) (Ethan Abraham) 👋
 
-I'm a cybersecurity researcher from Kochi, Kerala.🐘󠁵󠁳󠁣󠁡󠁿 I currently live in India. 🇮🇳
+I'm a cybersecurity researcher from Thiruvalla, Kerala.🐘󠁵󠁳󠁣󠁡󠁿 I currently live in India. 🇮🇳
 
 I have been building APIs and tools for Machine Learning and data systems, in Kerala. 🌎
 
