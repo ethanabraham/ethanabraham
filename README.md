@@ -37,7 +37,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://dev.to/ethanabraham" target="blank"><img align="center" src="https://www.svgrepo.com/show/341891/hackerone.svg" alt="ethanabraham" height="30" width="40" /></a>
+<a href="https://dev.to/ethanabraham" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg" alt="ethanabraham" height="30" width="40" /></a>
 <a href="https://twitter.com/ethanabraham_xi" target="blank"><img align="center" src="https://www.svgrepo.com/show/330097/bugcrowd.svg" alt="ethanabraham" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ethanabrahams" target="blank"><img align="center" src="https://www.svgrepo.com/show/331423/hack-the-box.svg" alt="ethanabraham" height="30" width="40" /></a>
 <a href="https://instagram.com/ethanabraham_xi" target="blank"><img align="center" src="https://raw.githubusercontent.com/ethanabraham-xi/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ethanabraham" height="30" width="40" /></a>
