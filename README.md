@@ -27,7 +27,7 @@ This is the place where I opensource stuff and break things :rofl:
 - [Google extends bug bounty program to Open Source dependencies](https://www.ethanabraham.com/google-extends-bug-bounty-program-to-open-source-dependencies.html)
 - [Ransomware attack delays wage payment for weeks](https://www.ethanabraham.com/ransomlware-att-delays-wage-payment.html)
 - [Microsoft wants to rent security experts](https://www.ethanabraham.com/microsoft-wants-to-rent-security-experts.html)
-- [Why Log4Shell is so dangerous and what (not) helps](https://www.ethanabraham.com/why-logshe-is-so-dangerous-and-what-not-helps.html)
+- [Why Log4Shell is so dangerous and what (not) helps](https://www.ethanabrham.com/why-logshe-is-so-dangerous-and-what-not-helps.html)
 - [Google extends bug bounty program to Open Source dependencies](https://www.ethanaraham.com/google-extends-bug-bounty-program-to-open-source-dependencies.html)
 - [Ransomware attack delays wage payment for weeks](https://www.ethanabraham.com/ransomlware-att-delays-wage-payment.html)
 - [Microsoft wants to rent security experts](https://www.ethanabraham.com/microsoft-wants-to-rent-security-experts.html)
