@@ -32,7 +32,7 @@ This is the place where I opensource stuff and break things :rofl:
 - [Ransomware attack delays wage payment for weeks](https://www.ethanabrahams.com/ransomlware-att-delays-wage-payment.html)
 - [Microsoft wants to rent security experts](https://www.ethanabrahams.com/microsoft-wants-to-rent-security-experts.html)
 - [Why Log4Shell is so dangerous and what (not) helps](https://www.ethanabrahams.com/why-logshe-is-so-dangerous-and-what-not-helps.html)
-- [Microsoft wants to rent security experts](https://www.ethanabraham.com/microsoft-wants-to-rent-security-experts.html)
+- [Microsoft wants to rent security experts](https://www.ethanabrahams.com/microsoft-wants-to-rent-security-experts.html)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
