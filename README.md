@@ -1,4 +1,4 @@
-### Hey! I'm [@ethanabraham_xi](https://twitter.com/ethanabraham_xi) (Ethan Abraham) 👋
+### Hey! I'm [@ethanabraham_xi](https://twitter.com/ethanabraham_x) (Ethan Abraham) 👋
 
 I'm a cybersecurity researcher from Thiruvalla, Kerala.🐘󠁵󠁳󠁣󠁡󠁿 I currently live in India. 🇮🇳
 
