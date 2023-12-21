@@ -1,4 +1,4 @@
-### Hey! I'm [@ethanabraham_xi](https://twitter.com/ethanabraham_x) (Ethan Abraham) 👋
+### Hey! I'm [@ethanabraham_x](https://twitter.com/ethanabraham_x) (Ethan Abraham) 👋
 
 I'm a cybersecurity researcher from Thiruvalla, Kerala.🐘󠁵󠁳󠁣󠁡󠁿 I currently live in India. 🇮🇳
 
@@ -17,7 +17,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning , Rust and Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 📫 &nbsp;How to reach me: [@ethanabraham](https://twitter.com/ethanabraham_xi) or <a rel="me" href="https://infosec.exchange/@ethanabraham">infosec.exchange/@ethanabraham</a>
+- 📫 &nbsp;How to reach me: [@ethanabraham](https://twitter.com/ethanabraham_x) or <a rel="me" href="https://infosec.exchange/@ethanabraham">infosec.exchange/@ethanabraham</a>
 - 👨‍💻 &nbsp;Read more about my projects at [https://www.ethanabraham.com/p/projects.html](https://www.ethanabraham.com/p/projects.html)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [ETNcry](https://account.xbox.com/en-us/profile?gamertag=ETNcry))
 
