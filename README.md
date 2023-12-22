@@ -28,6 +28,9 @@ If my open source projects are useful for your **product/company** you can also 
 - API vulnerabilities.
 - Cloud attacks and securing cloud networks. [AWS, Azure, Google cloud]
 - Network forensics.
+- Plan and demonstrate any attack/defense scenarios.
+- Windows networks attacks.
+- Securing network services.
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
