@@ -10,7 +10,7 @@
 <div>Monitoring your externally facing assets has never been easier!</div>
 <div>For business inquiries: <a href="mailto:infosec@ethanabraham.com" target="_blank" rel="noopener noreferrer nofollow">infosec@ethanabraham.com</a></div>
 
-YTU UUID
+Maneuver into your systems!!
 
 If my open source projects are useful for your **product/company** you can also sponsor my work on them. ☕
 
