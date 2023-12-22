@@ -1,6 +1,6 @@
 ### Hey! I'm [@ethanabraham_x](https://twitter.com/ethanabraham_x) (Ethan Abraham) 👋
 
-<p style="font-family: 'https://raw.githubusercontent.com/ethanabraham/ethanabraham/main/researcher-researcher-bold-700.ttf'; font-weight: bold;"># CYBERSECURITY SPECIALIST | HACKER | SECURITY ANALYST</p>
+<p style="font-family: 'https://raw.githubusercontent.com/ethanabraham/ethanabraham/main/researcher-researcher-bold-700.ttf'; font-weight: bold;">CYBERSECURITY SPECIALIST | HACKER | SECURITY ANALYST</p>
 <div>Acknowledged by 30+ World Wide Companies.</div>
 <div>My Biography: <a href="https://www.ethanabraham.com/p/bio.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ethanabraham.com/p/bio.html</a></div>
 <div>For Private Invites: <a href="mailto:ethanabraham@wearehackerone.com" target="_blank" rel="noopener noreferrer nofollow">ethanabraham@wearehackerone.com</a></div>
