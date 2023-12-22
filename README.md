@@ -34,7 +34,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://hackerone.com/ethanabraham" target="blank"><img align="center" src="https://www.svgrepo.com/show/473650/hackerone.svg" alt="ethanabraham" height="30" width="40" /></a>
-<a href="https://hackerone.com/ethanabraham" target="blank"><img align="center" src="https://www.svgrepo.com/show/473650/hackerone.svg" alt="ethanabraham" height="30" width="40" /></a>
-<a href="https://hackerone.com/ethanabraham" target="blank"><img align="center" src="https://www.svgrepo.com/show/473650/hackerone.svg" alt="ethanabraham" height="30" width="40" /></a>
-<a href="https://hackerone.com/ethanabraham" target="blank"><img align="center" src="https://www.svgrepo.com/show/473650/hackerone.svg" alt="ethanabraham" height="30" width="40" /></a>
+- [Why Log4Shell is so dangerous and what (not) helps](https://www.ethasnabraham.com/why-logshe-is-so-dangerous-and-what-not-helps.html)
+- [Google extends bug bounty program to Open Source dependencies](https://www.ethanabraham.com/google-extends-bug-bounty-program-to-open-source-dependencies.html)
+- [Ransomware attack delays wage payment for weeks](https://www.ethnabaham.com/ransomlware-att-delays-wage-payment.html)
