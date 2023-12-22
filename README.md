@@ -1,6 +1,7 @@
 ### Hey! I'm [@ethanabraham_x](https://twitter.com/ethanabraham_x) (Ethan Abraham) 👋
 
 Cyber Security Professional | Hacker | Security Analyst.
+
 Acknowledged by 30+ World Wide Companies.
 My Biography: https://www.ethanabraham.com/p/bio.html
 For Private Invites: ethanabraham@wearehackerone.com
