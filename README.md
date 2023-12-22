@@ -24,14 +24,16 @@ If my open source projects are useful for your **product/company** you can also 
 
 This is the place where I opensource stuff and break things :rofl:
 
-- Penetration testing methods. [OWASP Top 10 vulnerabilities]
-- Attack vectors. White/Gray/Black Box. [Web server, Web application, Service ports,...]
-- Web application vulnerabilities.
-- Privilege escalation techniques. [Windows, Linux and any other *nix]
-- Automated and manual web application vulnerability testing.
-- API vulnerabilities.
-- Cloud attacks and securing cloud networks. [AWS, Azure, Google cloud]
-- Network forensics.
+<ul>
+<li>Penetration testing methods.&nbsp;[OWASP Top 10 vulnerabilities]</li>
+<li>Attack vectors. White/Gray/Black Box.&nbsp;[Web server, Web application, Service ports,...]</li>
+<li>Web application vulnerabilities.</li>
+<li>Privilege escalation techniques.&nbsp;[Windows, Linux and any other *nix]</li>
+<li>Automated and manual web application vulnerability testing.</li>
+<li>API vulnerabilities.</li>
+<li>Cloud attacks and securing cloud networks.&nbsp;[AWS, Azure, Google cloud]</li>
+<li>Network forensics.</li>
+</ul>
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
