@@ -35,5 +35,3 @@ This is the place where I opensource stuff and break things :rofl:
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://hackerone.com/ethanabraham" target="blank"><img align="center" src="https://www.svgrepo.com/show/473650/hackerone.svg" alt="ethanabraham" height="30" width="40" /></a>
-<a href="https://bugcrowd.com/ethanabraham" target="blank"><img align="center" src="https://www.svgrepo.com/show/330097/bugcrowd.svg" alt="ethanabraham" height="30" width="40" /></a>
-<a href="https://app.intigriti.com/profile/ethanabraham" target="blank"><img align="center" src="https://www.svgrepo.com/show/330708/intigriti.svg" alt="ethanabraham" height="30" width="40" /></a>
