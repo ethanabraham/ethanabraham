@@ -49,5 +49,5 @@ If my open source projects are useful for your **product/company** you can also 
 - [https://github.com/nmap/nmap](https://github.com/nmap/nmap)
 - [https://github.com/nmap/npcap](https://github.com/nmap/npcap)
 - [https://github.com/nmap/ncrack](https://github.com/nmap/ncrack)
-- [https://github.com/ajinabraham/nodejsscan](https://github.com/ajibraham/nodejsscan)
+- [https://github.com/araham/nodejsscan](https://github.com/ajibraham/nodejsscan)
 <!-- BLOG-POST-LIST:END -->
