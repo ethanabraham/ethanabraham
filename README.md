@@ -33,7 +33,6 @@ This is the place where I opensource stuff and break things :rofl:
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
-<p align="left">
 <!-- BLOG-POST-LIST:START -->
 - [Why Log4Shell is so dangerous and what (not) helps](https://www.ethanabraaham.com/why-logshe-is-so-dangerous-and-what-not-helps.html)
 - [Google extends bug bounty program to Open Source dependencies](https://www.ethanabraham.com/google-extends-bug-bounty-program-to-open-source-dependencies.html)
