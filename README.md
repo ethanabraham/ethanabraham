@@ -7,10 +7,8 @@
 <div>For Private Invites: <a href="mailto:ethanabraham@wearehackerone.com" target="_blank" rel="noopener noreferrer nofollow">ethanabraham@wearehackerone.com</a></div>
 <div>My Writeups: <a href="https://www.ethanabraham.com/writeups/" target="_blank" rel="noopener noreferrer nofollow">https://www.ethanabraham.com/writeups/</a> &amp;&amp; <a href="http://ethanabrahams.medium.com/" target="_blank" rel="noopener noreferrer nofollow">http://ethanabrahams.medium.com/</a></div>
 <div>Founder &amp; Head of Security at <a href="http://www.hackerspunk.com/" target="_blank" rel="noopener noreferrer nofollow">http://www.hackerspunk.com</a> - The Comprehensive Cybersecurity Learning Platform</div>
-<div>Monitoring your externally facing assets has never been easier!</div>
 <div>For business inquiries: <a href="mailto:infosec@ethanabraham.com" target="_blank" rel="noopener noreferrer nofollow">infosec@ethanabraham.com</a></div>
-
-Maneuver into your systems!!
+<div>Monitoring your externally facing assets has never been easier!</div>
 
 If my open source projects are useful for your **product/company** you can also sponsor my work on them. ☕
 
