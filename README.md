@@ -2,13 +2,13 @@
 
 Cyber Security Professional | Hacker | Security Analyst.
 
-<div class="vertical-spacing interactive_markdown__p">Acknowledged by 30+ World Wide Companies.</div>
-<div class="vertical-spacing interactive_markdown__p">My Biography: <a class="daisy-link" href="https://www.ethanabraham.com/p/bio.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ethanabraham.com/p/bio.html</a></div>
-<div class="vertical-spacing interactive_markdown__p">For Private Invites: <a class="daisy-link" href="mailto:ethanabraham@wearehackerone.com" target="_blank" rel="noopener noreferrer nofollow">ethanabraham@wearehackerone.com</a></div>
-<div class="vertical-spacing interactive_markdown__p">My Writeups: <a class="daisy-link" href="https://www.ethanabraham.com/writeups/" target="_blank" rel="noopener noreferrer nofollow">https://www.ethanabraham.com/writeups/</a> &amp;&amp; <a class="daisy-link" href="http://ethanabrahams.medium.com/" target="_blank" rel="noopener noreferrer nofollow">http://ethanabrahams.medium.com/</a></div>
-<div class="vertical-spacing interactive_markdown__p">Founder &amp; Head of Security at <a class="daisy-link" href="http://www.hackerspunk.com/" target="_blank" rel="noopener noreferrer nofollow">http://www.hackerspunk.com</a> - The Comprehensive Cybersecurity Learning Platform</div>
-<div class="vertical-spacing interactive_markdown__p">Monitoring your externally facing assets has never been easier!</div>
-<div class="vertical-spacing interactive_markdown__p">For business inquiries: <a class="daisy-link" href="mailto:infosec@ethanabraham.com" target="_blank" rel="noopener noreferrer nofollow">infosec@ethanabraham.com</a></div>
+<div>Acknowledged by 30+ World Wide Companies.</div>
+<div>My Biography: <a href="https://www.ethanabraham.com/p/bio.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ethanabraham.com/p/bio.html</a></div>
+<div>For Private Invites: <a href="mailto:ethanabraham@wearehackerone.com" target="_blank" rel="noopener noreferrer nofollow">ethanabraham@wearehackerone.com</a></div>
+<div>My Writeups: <a href="https://www.ethanabraham.com/writeups/" target="_blank" rel="noopener noreferrer nofollow">https://www.ethanabraham.com/writeups/</a> &amp;&amp; <a href="http://ethanabrahams.medium.com/" target="_blank" rel="noopener noreferrer nofollow">http://ethanabrahams.medium.com/</a></div>
+<div>Founder &amp; Head of Security at <a href="http://www.hackerspunk.com/" target="_blank" rel="noopener noreferrer nofollow">http://www.hackerspunk.com</a> - The Comprehensive Cybersecurity Learning Platform</div>
+<div>Monitoring your externally facing assets has never been easier!</div>
+<div>For business inquiries: <a href="mailto:infosec@ethanabraham.com" target="_blank" rel="noopener noreferrer nofollow">infosec@ethanabraham.com</a></div>
 
 I'm a cybersecurity researcher from Thiruvalla, Kerala.🐘󠁵󠁳󠁣󠁡󠁿 I currently live in India. 🇮🇳
 
