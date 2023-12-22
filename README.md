@@ -44,7 +44,7 @@ If my open source projects are useful for your **product/company** you can also 
 - [Ransomware attack delays wage payment for weeks](https://www.ethnabaham.com/ransomlware-att-delays-wage-payment.html)
 <!-- BLOG-POST-LIST:END -->
 
-🔗 &nbsp;**Projects under Development**
+🔗 &nbsp;**Projects work in progress...**
 <!-- BLOG-POST-LIST:START -->
 - [https://github.com/nmap/nmap](https://github.com/nmap/nmap)
 - [https://github.com/nmap/npcap](https://github.com/nmap/npcap)
