@@ -32,7 +32,7 @@ This is the place where I opensource stuff and break things :rofl:
 - [Ransomware attack delays wage payment for weeks](https://www.ethnabaham.com/ransomlware-att-delays-wage-payment.html)
 <!-- BLOG-POST-LIST:END -->
 
-🔗 &nbsp;**Connect with me**
+🔗 &nbsp;**Projects under Development**
 <!-- BLOG-POST-LIST:START -->
 - [https://github.com/nmap/nmap](https://github.com/nmap/nmap)
 - [Google extends bug bounty program to Open Source dependencies](https://www.ethanabraham.com/google-extends-bug-bounty-program-to-open-source-dependencies.html)
