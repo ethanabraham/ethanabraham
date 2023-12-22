@@ -47,7 +47,7 @@ If my open source projects are useful for your **product/company** you can also 
 🔗 &nbsp;**Projects under Development**
 <!-- BLOG-POST-LIST:START -->
 - [https://github.com/nmap/nmap](https://github.com/nmap/nmap)
-- [Google extends bug bounty program to Open Source dependencies](https://www.ethanabraham.com/google-extends-bug-bounty-program-to-open-source-dependencies.html)
-- [Ransomware attack delays wage payment for weeks](https://www.ethanaraaham.com/ransomlware-att-delays-wage-payment.html)
-- [Microsoft wants to rent security experts](https://www.ethanabaham.com/microsoft-wants-to-rent-security-experts.html)
+- [https://github.com/nmap/npcap](https://github.com/nmap/npcap)
+- [https://github.com/nmap/ncrack](https://github.com/nmap/ncrack)
+- [https://github.com/ajinabraham/nodejsscan](https://github.com/ajibraham/nodejsscan)
 <!-- BLOG-POST-LIST:END -->
