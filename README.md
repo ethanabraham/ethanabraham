@@ -14,12 +14,14 @@ If my open source projects are useful for your **product/company** you can also 
 
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning , Rust and Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 📫 &nbsp;How to reach me: [@ethanabraham](https://twitter.com/ethanabraham_x) or <a rel="me" href="https://infosec.exchange/@ethanabraham">infosec.exchange/@ethanabraham</a>
-- 👨‍💻 &nbsp;Read more about my projects at [https://www.ethanabraham.com/p/projects.html](https://www.ethanabraham.com/p/projects.html)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [ETNcry](https://account.xbox.com/en-us/profile?gamertag=ETNcry))
+- Penetration testing methods. [OWASP Top 10 vulnerabilities]
+- Attack vectors. White/Gray/Black Box. [Web server, Web application, Service ports,...]
+- Web application vulnerabilities.
+- Privilege escalation techniques. [Windows, Linux and any other *nix]
+- Automated and manual web application vulnerability testing.
+- API vulnerabilities.
+- Cloud attacks and securing cloud networks. [AWS, Azure, Google cloud]
+- Network forensics.
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
