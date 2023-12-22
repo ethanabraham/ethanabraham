@@ -29,7 +29,7 @@ If my open source projects are useful for your **product/company** you can also 
 - Windows networks attacks.
 - Securing network services.
 
-📕 &nbsp;**Latest Blog Posts**
+📕 &nbsp;**Latest Blog Posts**:
 <!-- BLOG-POST-LIST:START -->
 - [Why Log4Shell is so dangerous and what (not) helps](https://www.ethanabraaham.com/why-logshe-is-so-dangerous-and-what-not-helps.html)
 - [Google extends bug bounty program to Open Source dependencies](https://www.ethanabraham.com/google-extends-bug-bounty-program-to-open-source-dependencies.html)
