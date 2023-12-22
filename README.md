@@ -9,8 +9,6 @@
 <div>Founder &amp; Head of Security at <a href="http://www.hackerspunk.com/" target="_blank" rel="noopener noreferrer nofollow">http://www.hackerspunk.com</a> - The Comprehensive Cybersecurity Learning Platform</div>
 <div>For business inquiries: <a href="mailto:infosec@ethanabraham.com" target="_blank" rel="noopener noreferrer nofollow">infosec@ethanabraham.com</a></div>.
 
-Monitoring your externally facing assets has never been easier!
-
 I'm a cybersecurity researcher from Thiruvalla, Kerala.🐘󠁵󠁳󠁣󠁡󠁿 I currently live in India. 🇮🇳
 I created [**Website Cloner**](#), [**Web Spy**](#), [**Linux Leads**](#), [**Twitter Bot**](#) and a bunch of other open source tools. 🚀
 I have been building APIs and tools for Machine Learning and data systems, in Kerala. 🌎
