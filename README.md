@@ -53,7 +53,8 @@ Feel free to checkout my [portfolio](https://ethanabraham.com/) website!
 - [Microsoft wants to rent security experts](https://www.ethanabaham.com/microsoft-wants-to-rent-security-experts.html)
 <!-- BLOG-POST-LIST:END -->
 
-🔗 &nbsp;**Projects work in progress...**
+🔗 &nbsp;**Projects**
+Here are some of the projects I've worked on.
 <!-- BLOG-POST-LIST:START -->
 - [https://github.com/nmap/nmap](https://github.com/nmap/nmap)
 - [https://github.com/nmap/npcap](https://github.com/nmap/npcap)
