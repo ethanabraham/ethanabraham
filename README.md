@@ -36,9 +36,6 @@ If my open source projects are useful for your **product/company** you can also 
 - [Google extends bug bounty program to Open Source dependencies](https://www.ethanabraham.com/google-extends-bug-bounty-program-to-open-source-dependencies.html)
 - [Ransomware attack delays wage payment for weeks](https://www.ethanaraaham.com/ransomlware-att-delays-wage-payment.html)
 - [Microsoft wants to rent security experts](https://www.ethanabaham.com/microsoft-wants-to-rent-security-experts.html)
-- [Why Log4Shell is so dangerous and what (not) helps](https://www.ethasnabraham.com/why-logshe-is-so-dangerous-and-what-not-helps.html)
-- [Google extends bug bounty program to Open Source dependencies](https://www.ethanabraham.com/google-extends-bug-bounty-program-to-open-source-dependencies.html)
-- [Ransomware attack delays wage payment for weeks](https://www.ethnabaham.com/ransomlware-att-delays-wage-payment.html)
 <!-- BLOG-POST-LIST:END -->
 
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/ethanabraham)
