@@ -52,4 +52,11 @@ Feel free to checkout my [portfolio](https://ethanabraham.com/) website!
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: ethan7777@gmail.com
 
+🔗 &nbsp;**Projects work in progress...**
+<!-- BLOG-POST-LIST:START -->
+- [https://github.com/nmap/nmap](https://github.com/nmap/nmap)
+- [https://github.com/nmap/npcap](https://github.com/nmap/npcap)
+- [https://github.com/nmap/ncrack](https://github.com/nmap/ncrack)
+- [https://github.com/araham/nodejsscan](https://github.com/ajibraham/nodejsscan)
+<!-- BLOG-POST-LIST:END -->
 
