@@ -47,7 +47,7 @@ If my open source projects are useful for your **product/company** you can also 
 
 - [![BR](https://www.ethanabraham.com/logo/favicon-16x16.png)](https://www.ethanabraham.com/) 
 Feel free to checkout my [portfolio](https://ethanabraham.com/) website!
-- 🏢 Software Engineer (Full Stack) [@Hines](https://www.hines.com/), in Houston TX
+- 🏢 Cybersecurity Engineer (Offensive Security) [@Hackerone](https://www.hackerone.com/), in Houston TX
 - 🧰 I break/build with: `Python` `Django`, `JavaScript`, `Next.js`, `Gatsby.js`,  `MUI`, `Tailwind` ...
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: ethan7777@gmail.com
