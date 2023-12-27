@@ -1,3 +1,13 @@
+### Hey! I'm [@ethanabraham_x](https://twitter.com/ethanabraham_x) (Ethan Abraham) 👋
+
+<div><p style="font-family: 'ResearcherBold';">CYBERSECURITY SPECIALIST | HACKER | SECURITY ANALYST</p></div>
+<div>Acknowledged by 30+ World Wide Companies.</div>
+<div>My Biography: <a href="https://www.ethanabraham.com/p/bio.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ethanabraham.com/p/bio.html</a></div>
+<div>For Private Invites: <a href="mailto:ethanabraham@wearehackerone.com" target="_blank" rel="noopener noreferrer nofollow">ethanabraham@wearehackerone.com</a></div>
+<div>My Writeups: <a href="https://www.ethanabraham.com/writeups/" target="_blank" rel="noopener noreferrer nofollow">https://www.ethanabraham.com/writeups/</a> &amp;&amp; <a href="https://medium.com/@ethanabraham_x/" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/@ethanabraham_x/</a></div>
+<div>Founder &amp; Head of Security at <a href="http://www.hackerspunk.com/" target="_blank" rel="noopener noreferrer nofollow">http://www.hackerspunk.com</a> - The Comprehensive Cybersecurity Learning Platform</div>
+<div>For business inquiries: <a href="mailto:infosec@ethanabraham.com" target="_blank" rel="noopener noreferrer nofollow">infosec@ethanabraham.com</a></div>
+
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/ethanabraham)
 [<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=9b51e0" />](https://github.com/ethanabraham)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/ethanabraham_x) 
@@ -11,16 +21,6 @@ Feel free to checkout my [portfolio](https://ethanabraham.com/) website!
 - 🧰 I build with: `Python` `Django`, `JavaScript`, `Next.js`, `Gatsby.js`,  `MUI`, `Tailwind` ...
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: brian@b-r.io
-
-### Hey! I'm [@ethanabraham_x](https://twitter.com/ethanabraham_x) (Ethan Abraham) 👋
-
-<div><p style="font-family: 'ResearcherBold';">CYBERSECURITY SPECIALIST | HACKER | SECURITY ANALYST</p></div>
-<div>Acknowledged by 30+ World Wide Companies.</div>
-<div>My Biography: <a href="https://www.ethanabraham.com/p/bio.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ethanabraham.com/p/bio.html</a></div>
-<div>For Private Invites: <a href="mailto:ethanabraham@wearehackerone.com" target="_blank" rel="noopener noreferrer nofollow">ethanabraham@wearehackerone.com</a></div>
-<div>My Writeups: <a href="https://www.ethanabraham.com/writeups/" target="_blank" rel="noopener noreferrer nofollow">https://www.ethanabraham.com/writeups/</a> &amp;&amp; <a href="https://medium.com/@ethanabraham_x/" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/@ethanabraham_x/</a></div>
-<div>Founder &amp; Head of Security at <a href="http://www.hackerspunk.com/" target="_blank" rel="noopener noreferrer nofollow">http://www.hackerspunk.com</a> - The Comprehensive Cybersecurity Learning Platform</div>
-<div>For business inquiries: <a href="mailto:infosec@ethanabraham.com" target="_blank" rel="noopener noreferrer nofollow">infosec@ethanabraham.com</a></div>.
 
 I'm a cybersecurity researcher from Thiruvalla, Kerala.🐘󠁵󠁳󠁣󠁡󠁿 I currently live in India. 🇮🇳
 I created [**Website Cloner**](#), [**Web Spy**](#), [**Linux Leads**](#), [**Twitter Bot**](#) and a bunch of other open source tools. 🚀
