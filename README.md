@@ -54,7 +54,9 @@ Feel free to checkout my [portfolio](https://ethanabraham.com/) website!
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Projects**:
+
 Here are some of the projects I've worked on.
+
 <!-- BLOG-POST-LIST:START -->
 - [https://github.com/nmap/nmap](https://github.com/nmap/nmap)
 - [https://github.com/nmap/npcap](https://github.com/nmap/npcap)
