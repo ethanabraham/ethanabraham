@@ -42,8 +42,8 @@ If my open source projects are useful for your **product/company** you can also 
 [<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=9b51e0" />](https://github.com/ethanabraham)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/ethanabraham_x) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ethanabraham/)
-[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/channel/UCCIFp-Se_xjfYc94H04oK7Q)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCCIFp-Se_xjfYc94H04oK7Q)
+[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/@ethanabraham.x)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/@ethanabraham.x)
 
 - [![BR](https://www.ethanabraham.com/logo/favicon-16x16.png)](https://www.ethanabraham.com/) 
 Feel free to checkout my [portfolio](https://ethanabraham.com/) website!
