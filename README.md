@@ -15,7 +15,7 @@ I created [**Website Cloner**](#), [**Web Spy**](#), [**Linux Leads**](#), [**Tw
 I have been building APIs and tools for Machine Learning and data systems, in Kerala. 🌎
 I like to build/break things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
 
-I'm currently dedicating a high percentage of my time to Hackers Punk, Space AI, and my other open source projects. At the same time, I'm also helping a limited number of teams and organizations as an **external consultant**. If you would like to have my help with your team and product, feel free to [**contact me**](<mailto:infosec@ethanabraham.com>). 🤓
+I'm currently dedicating a high percentage of my time to Hackers Punk, Space AI, and my other open source projects. At the same time, I'm also helping a limited number of teams and organizations as an **external consultant**. If you would like to have my help with your team and product, feel free to [**contact me**](<mailto:infosec@ethanabraham.com>).
 If my open source projects are useful for your **product/company** you can also sponsor my work on them. ☕
 
 - Penetration testing methods. [OWASP Top 10 vulnerabilities]
