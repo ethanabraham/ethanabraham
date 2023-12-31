@@ -36,3 +36,10 @@ If my open source projects are useful for your **product/company** you can also 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ethanabrahams/)
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/@ethanabraham.x)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UClc1qx_ylB_HRQqWvdYvo3g)
+
+- [![BR](https://raw.githubusercontent.com/ethanabraham/ethanabraham/main/icons8-phoenix-16.png)](https://www.ethanabraham.com/) 
+Feel free to checkout my [portfolio](https://www.ethanabraham.com/) website!
+- 🏢 Cybersecurity Engineer (Offensive Security) [@Hackerone](https://www.hackerone.com/), in Houston TX
+- 🧰 I break/build with: `Python` `Django`, `JavaScript`, `Next.js`, `Gatsby.js`,  `MUI`, `Tailwind` ...
+- ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
+- 📫 Reach out to me: ethan7777@gmail.com
