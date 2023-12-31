@@ -21,9 +21,9 @@ If my open source projects are useful for your **product/company** you can also 
 - Network forensics.
 - Plan and demonstrate any attack/defense scenarios.
 - Windows networks attacks.
-- Securing network services.
-- Network forensics.
-- Windows networks attacks.
+- 𝘚𝘦𝘤𝘶𝘳𝘪𝘯𝘨 𝘯𝘦𝘵𝘸𝘰𝘳𝘬 𝘴𝘦𝘳𝘷𝘪𝘤𝘦𝘴.
+- 𝘕𝘦𝘵𝘸𝘰𝘳𝘬 𝘧𝘰𝘳𝘦𝘯𝘴𝘪𝘤𝘴.
+- 𝘞𝘪𝘯𝘥𝘰𝘸𝘴 𝘯𝘦𝘵𝘸𝘰𝘳𝘬𝘴 𝘢𝘵𝘵𝘢𝘤𝘬𝘴.
 
 <div>Acknowledged by 30+ World Wide Companies.</div>
 <div>My Biography: <a href="https://www.ethanabraham.com/p/bio.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ethanabraham.com/p/bio.html</a></div>
