@@ -3,13 +3,13 @@
 <div><p style="font-family: 'ResearcherBold';">CYBERSECURITY SPECIALIST | HACKER | SECURITY ANALYST</p></div>
 
 
-I'm a cybersecurity researcher from Thiruvalla, Kerala.🐘󠁵󠁳󠁣󠁡󠁿 I currently live in India. 🇮🇳
-I created [**Website Cloner**](#), [**Web Spy**](#), [**Linux Leads**](#), [**Twitter Bot**](#) and a bunch of other open source tools. 🚀
-I have been building APIs and tools for Machine Learning and data systems, in Kerala. 🌎
-I like to build/break things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TypeScript (and JavaScript), modern backend APIs, and modern frontend frameworks. 🤖
+𝘐'𝘮 𝘢 𝘤𝘺𝘣𝘦𝘳𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘳𝘦𝘴𝘦𝘢𝘳𝘤𝘩𝘦𝘳 𝘧𝘳𝘰𝘮 𝘛𝘩𝘪𝘳𝘶𝘷𝘢𝘭𝘭𝘢, 𝘒𝘦𝘳𝘢𝘭𝘢.🐘󠁵󠁳󠁣󠁡󠁿 𝘐 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘪𝘷𝘦 𝘪𝘯 𝘐𝘯𝘥𝘪𝘢. 🇮🇳
+𝘐 𝘤𝘳𝘦𝘢𝘵𝘦𝘥 [**𝘞𝘦𝘣𝘴𝘪𝘵𝘦 𝘊𝘭𝘰𝘯𝘦𝘳**](#), [**𝘞𝘦𝘣 𝘚𝘱𝘺**](#), [**𝘓𝘪𝘯𝘶𝘹 𝘓𝘦𝘢𝘥𝘴**](#), [**𝘛𝘸𝘪𝘵𝘵𝘦𝘳 𝘉𝘰𝘵**](#) 𝘢𝘯𝘥 𝘢 𝘣𝘶𝘯𝘤𝘩 𝘰𝘧 𝘰𝘵𝘩𝘦𝘳 𝘰𝘱𝘦𝘯 𝘴𝘰𝘶𝘳𝘤𝘦 𝘵𝘰𝘰𝘭𝘴. 🚀
+𝘐 𝘩𝘢𝘷𝘦 𝘣𝘦𝘦𝘯 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘈𝘗𝘐𝘴 𝘢𝘯𝘥 𝘵𝘰𝘰𝘭𝘴 𝘧𝘰𝘳 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘢𝘯𝘥 𝘥𝘢𝘵𝘢 𝘴𝘺𝘴𝘵𝘦𝘮𝘴, 𝘪𝘯 𝘒𝘦𝘳𝘢𝘭𝘢. 🌎
+𝘐 𝘭𝘪𝘬𝘦 𝘵𝘰 𝘣𝘶𝘪𝘭𝘥/𝘣𝘳𝘦𝘢𝘬 𝘵𝘩𝘪𝘯𝘨𝘴 𝘸𝘪𝘵𝘩 𝘋𝘦𝘦𝘱 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨/𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨, 𝘥𝘪𝘴𝘵𝘳𝘪𝘣𝘶𝘵𝘦𝘥 𝘴𝘺𝘴𝘵𝘦𝘮𝘴, 𝘚𝘘𝘓 𝘢𝘯𝘥 𝘕𝘰𝘚𝘘𝘓 𝘥𝘢𝘵𝘢𝘣𝘢𝘴𝘦𝘴, 𝘋𝘰𝘤𝘬𝘦𝘳, 𝘗𝘺𝘵𝘩𝘰𝘯, 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵 (𝘢𝘯𝘥 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵), 𝘮𝘰𝘥𝘦𝘳𝘯 𝘣𝘢𝘤𝘬𝘦𝘯𝘥 𝘈𝘗𝘐𝘴, 𝘢𝘯𝘥 𝘮𝘰𝘥𝘦𝘳𝘯 𝘧𝘳𝘰𝘯𝘵𝘦𝘯𝘥 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴. 🤖
 
-I'm currently dedicating a high percentage of my time to Hackers Punk, Space AI, and my other open source projects. At the same time, I'm also helping a limited number of teams and organizations as an **external consultant**. If you would like to have my help with your team and product, feel free to [**contact me**](<mailto:infosec@ethanabraham.com>).
-If my open source projects are useful for your **product/company** you can also sponsor my work on them. ☕
+𝘐'𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘥𝘦𝘥𝘪𝘤𝘢𝘵𝘪𝘯𝘨 𝘢 𝘩𝘪𝘨𝘩 𝘱𝘦𝘳𝘤𝘦𝘯𝘵𝘢𝘨𝘦 𝘰𝘧 𝘮𝘺 𝘵𝘪𝘮𝘦 𝘵𝘰 𝘏𝘢𝘤𝘬𝘦𝘳𝘴 𝘗𝘶𝘯𝘬, 𝘚𝘱𝘢𝘤𝘦 𝘈𝘐, 𝘢𝘯𝘥 𝘮𝘺 𝘰𝘵𝘩𝘦𝘳 𝘰𝘱𝘦𝘯 𝘴𝘰𝘶𝘳𝘤𝘦 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴. 𝘈𝘵 𝘵𝘩𝘦 𝘴𝘢𝘮𝘦 𝘵𝘪𝘮𝘦, 𝘐'𝘮 𝘢𝘭𝘴𝘰 𝘩𝘦𝘭𝘱𝘪𝘯𝘨 𝘢 𝘭𝘪𝘮𝘪𝘵𝘦𝘥 𝘯𝘶𝘮𝘣𝘦𝘳 𝘰𝘧 𝘵𝘦𝘢𝘮𝘴 𝘢𝘯𝘥 𝘰𝘳𝘨𝘢𝘯𝘪𝘻𝘢𝘵𝘪𝘰𝘯𝘴 𝘢𝘴 𝘢𝘯 **𝘦𝘹𝘵𝘦𝘳𝘯𝘢𝘭 𝘤𝘰𝘯𝘴𝘶𝘭𝘵𝘢𝘯𝘵**. 𝘐𝘧 𝘺𝘰𝘶 𝘸𝘰𝘶𝘭𝘥 𝘭𝘪𝘬𝘦 𝘵𝘰 𝘩𝘢𝘷𝘦 𝘮𝘺 𝘩𝘦𝘭𝘱 𝘸𝘪𝘵𝘩 𝘺𝘰𝘶𝘳 𝘵𝘦𝘢𝘮 𝘢𝘯𝘥 𝘱𝘳𝘰𝘥𝘶𝘤𝘵, 𝘧𝘦𝘦𝘭 𝘧𝘳𝘦𝘦 𝘵𝘰 [**𝘤𝘰𝘯𝘵𝘢𝘤𝘵 𝘮𝘦**](<𝘮𝘢𝘪𝘭𝘵𝘰:𝘪𝘯𝘧𝘰𝘴𝘦𝘤@𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮.𝘤𝘰𝘮>).
+𝘐𝘧 𝘮𝘺 𝘰𝘱𝘦𝘯 𝘴𝘰𝘶𝘳𝘤𝘦 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘢𝘳𝘦 𝘶𝘴𝘦𝘧𝘶𝘭 𝘧𝘰𝘳 𝘺𝘰𝘶𝘳 **𝘱𝘳𝘰𝘥𝘶𝘤𝘵/𝘤𝘰𝘮𝘱𝘢𝘯𝘺** 𝘺𝘰𝘶 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘴𝘱𝘰𝘯𝘴𝘰𝘳 𝘮𝘺 𝘸𝘰𝘳𝘬 𝘰𝘯 𝘵𝘩𝘦𝘮. ☕
 
 - 𝘗𝘦𝘯𝘦𝘵𝘳𝘢𝘵𝘪𝘰𝘯 𝘵𝘦𝘴𝘵𝘪𝘯𝘨 𝘮𝘦𝘵𝘩𝘰𝘥𝘴. [𝘖𝘞𝘈𝘚𝘗 𝘛𝘰𝘱 10 𝘷𝘶𝘭𝘯𝘦𝘳𝘢𝘣𝘪𝘭𝘪𝘵𝘪𝘦𝘴]
 - 𝘈𝘵𝘵𝘢𝘤𝘬 𝘷𝘦𝘤𝘵𝘰𝘳𝘴. 𝘞𝘩𝘪𝘵𝘦/𝘎𝘳𝘢𝘺/𝘉𝘭𝘢𝘤𝘬 𝘉𝘰𝘹. [𝘞𝘦𝘣 𝘴𝘦𝘳𝘷𝘦𝘳, 𝘞𝘦𝘣 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯, 𝘚𝘦𝘳𝘷𝘪𝘤𝘦 𝘱𝘰𝘳𝘵𝘴,...]
