@@ -22,6 +22,11 @@ If my open source projects are useful for your **product/company** you can also 
 - Plan and demonstrate any attack/defense scenarios.
 - Windows networks attacks.
 - Securing network services.
+- Cloud attacks and securing cloud networks. [AWS, Azure, Google cloud]
+- Network forensics.
+- Plan and demonstrate any attack/defense scenarios.
+- Windows networks attacks.
+- Securing network services.
 
 <div>Acknowledged by 30+ World Wide Companies.</div>
 <div>My Biography: <a href="https://www.ethanabraham.com/p/bio.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ethanabraham.com/p/bio.html</a></div>
