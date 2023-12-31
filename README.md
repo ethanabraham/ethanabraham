@@ -29,23 +29,3 @@ If my open source projects are useful for your **product/company** you can also 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ethanabrahams/)
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/@ethanabraham.x)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UClc1qx_ylB_HRQqWvdYvo3g)
-
-
-📕 &nbsp;**Latest Blog Posts**:
-<!-- BLOG-POST-LIST:START -->
-- [Why Log4Shell is so dangerous and what (not) helps](https://www.ethanabraaham.com/why-logshe-is-so-dangerous-and-what-not-helps.html)
-- [Google extends bug bounty program to Open Source dependencies](https://www.ethanabraham.com/google-extends-bug-bounty-program-to-open-source-dependencies.html)
-- [Ransomware attack delays wage payment for weeks](https://www.ethanaraaham.com/ransomlware-att-delays-wage-payment.html)
-- [Microsoft wants to rent security experts](https://www.ethanabaham.com/microsoft-wants-to-rent-security-experts.html)
-<!-- BLOG-POST-LIST:END -->
-
-🔗 &nbsp;**Projects**:
-
-Here are some of the projects I've worked on.
-
-<!-- BLOG-POST-LIST:START -->
-- [https://github.com/nmap/nmap](https://github.com/nmap/nmap)
-- [https://github.com/nmap/npcap](https://github.com/nmap/npcap)
-- [https://github.com/nmap/ncrack](https://github.com/nmap/ncrack)
-- [https://github.com/araham/nodejsscan](https://github.com/ajibraham/nodejsscan)
-<!-- BLOG-POST-LIST:END -->
