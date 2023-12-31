@@ -22,7 +22,6 @@ If my open source projects are useful for your **product/company** you can also 
 - Plan and demonstrate any attack/defense scenarios.
 - Windows networks attacks.
 - Securing network services.
-- Cloud attacks and securing cloud networks. [AWS, Azure, Google cloud]
 - Network forensics.
 - Windows networks attacks.
 
