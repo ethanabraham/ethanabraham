@@ -28,15 +28,4 @@ If my open source projects are useful for your **product/company** you can also 
 <div>For Private Invites: <a href="mailto:ethanabraham@wearehackerone.com" target="_blank" rel="noopener noreferrer nofollow">ethanabraham@wearehackerone.com</a></div>
 <div>My Writeups: <a href="https://www.ethanabraham.com/writeups/" target="_blank" rel="noopener noreferrer nofollow">https://www.ethanabraham.com/writeups/</a> &amp;&amp; <a href="https://medium.com/@ethanabraham_x/" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/@ethanabraham_x/</a></div>
 <div>Founder &amp; Head of Security at <a href="http://www.hackerspunk.com/" target="_blank" rel="noopener noreferrer nofollow">http://www.hackerspunk.com</a> - The Comprehensive Cybersecurity Learning Platform</div>
-<div>For business inquiries: <a href="mailto:infosec@ethanabraham.com" target="_blank" rel="noopener noreferrer nofollow">infosec@ethanabraham.com</a></div>.
-
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/ethanabraham)
-[<img src="https://img.shields.io/badge/gitlab-%2312100E.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=9b51e0" />](https://github.com/ethanabraham)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/ethanabraham_x) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ethanabrahams/)
-[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/@ethanabraham.x)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UClc1qx_ylB_HRQqWvdYvo3g)
-
-- 🧰 I break/build with: `Python` `Django`, `JavaScript`, `Next.js`, `Gatsby.js`,  `MUI`, `Tailwind` ...
-- ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
-- 📫 Reach out to me: ethan7777@gmail.com
+<div>For business inquiries: <a href="mailto:infosec@ethanabraham.com" target="_blank" rel="noopener noreferrer nofollow">infosec@ethanabraham.com</a></div>
