@@ -1,12 +1,7 @@
 ### Hey! I'm [@ethanabraham_x](https://twitter.com/ethanabraham_x) (Ethan Abraham) 👋
 
 <div><p style="font-family: 'ResearcherBold';">CYBERSECURITY SPECIALIST | HACKER | SECURITY ANALYST</p></div>
-<div>Acknowledged by 30+ World Wide Companies.</div>
-<div>My Biography: <a href="https://www.ethanabraham.com/p/bio.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ethanabraham.com/p/bio.html</a></div>
-<div>For Private Invites: <a href="mailto:ethanabraham@wearehackerone.com" target="_blank" rel="noopener noreferrer nofollow">ethanabraham@wearehackerone.com</a></div>
-<div>My Writeups: <a href="https://www.ethanabraham.com/writeups/" target="_blank" rel="noopener noreferrer nofollow">https://www.ethanabraham.com/writeups/</a> &amp;&amp; <a href="https://medium.com/@ethanabraham_x/" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/@ethanabraham_x/</a></div>
-<div>Founder &amp; Head of Security at <a href="http://www.hackerspunk.com/" target="_blank" rel="noopener noreferrer nofollow">http://www.hackerspunk.com</a> - The Comprehensive Cybersecurity Learning Platform</div>
-<div>For business inquiries: <a href="mailto:infosec@ethanabraham.com" target="_blank" rel="noopener noreferrer nofollow">infosec@ethanabraham.com</a></div>   
+
 
 I'm a cybersecurity researcher from Thiruvalla, Kerala.🐘󠁵󠁳󠁣󠁡󠁿 I currently live in India. 🇮🇳
 I created [**Website Cloner**](#), [**Web Spy**](#), [**Linux Leads**](#), [**Twitter Bot**](#) and a bunch of other open source tools. 🚀
