@@ -43,3 +43,22 @@ Feel free to checkout my [portfolio](https://www.ethanabraham.com/) website!
 - 🧰 I break/build with: `Python` `Django`, `JavaScript`, `Next.js`, `Gatsby.js`,  `MUI`, `Tailwind` ...
 - ⚡ I enjoy photography, reading, playing soccer, and lifting weights :)
 - 📫 Reach out to me: ethan7777@gmail.com
+
+📕 &nbsp;**Latest Blog Posts**:
+<!-- BLOG-POST-LIST:START -->
+- [Why Log4Shell is so dangerous and what (not) helps](https://www.ethanabraaham.com/why-logshe-is-so-dangerous-and-what-not-helps.html)
+- [Google extends bug bounty program to Open Source dependencies](https://www.ethanabraham.com/google-extends-bug-bounty-program-to-open-source-dependencies.html)
+- [Ransomware attack delays wage payment for weeks](https://www.ethanaraaham.com/ransomlware-att-delays-wage-payment.html)
+- [Microsoft wants to rent security experts](https://www.ethanabaham.com/microsoft-wants-to-rent-security-experts.html)
+<!-- BLOG-POST-LIST:END -->
+
+🔗 &nbsp;**Projects**:
+
+Here are some of the projects I've worked on.
+
+<!-- BLOG-POST-LIST:START -->
+- [https://github.com/nmap/nmap](https://github.com/nmap/nmap)
+- [https://github.com/nmap/npcap](https://github.com/nmap/npcap)
+- [https://github.com/nmap/ncrack](https://github.com/nmap/ncrack)
+- [https://github.com/araham/nodejsscan](https://github.com/ajibraham/nodejsscan)
+<!-- BLOG-POST-LIST:END -->
