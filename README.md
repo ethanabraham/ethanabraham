@@ -49,4 +49,6 @@ Feel free to checkout my [portfolio](https://www.ethanabraham.com/) website!
 - [Why Log4Shell is so dangerous and what (not) helps](https://www.ethanabraaham.com/why-logshe-is-so-dangerous-and-what-not-helps.html)
 - [Google extends bug bounty program to Open Source dependencies](https://www.ethanabraham.com/google-extends-bug-bounty-program-to-open-source-dependencies.html)
 - [Ransomware attack delays wage payment for weeks](https://www.ethanaraaham.com/ransomlware-att-delays-wage-payment.html)
+- [Google extends bug bounty program to Open Source dependencies](https://www.ethanabraham.com/google-extends-bug-bounty-program-to-open-source-dependencies.html)
+- [Ransomware attack delays wage payment for weeks](https://www.ethanaraaham.com/ransomlware-att-delays-wage-payment.html)
 <!-- BLOG-POST-LIST:END -->
