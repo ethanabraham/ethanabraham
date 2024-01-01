@@ -24,12 +24,7 @@
 <div>𝘍𝘰𝘳 𝘗𝘳𝘪𝘷𝘢𝘵𝘦 𝘐𝘯𝘷𝘪𝘵𝘦𝘴: <a 𝘩𝘳𝘦𝘧="𝘮𝘢𝘪𝘭𝘵𝘰:𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮@𝘸𝘦𝘢𝘳𝘦𝘩𝘢𝘤𝘬𝘦𝘳𝘰𝘯𝘦.𝘤𝘰𝘮" 𝘵𝘢𝘳𝘨𝘦𝘵="_𝘣𝘭𝘢𝘯𝘬" 𝘳𝘦𝘭="𝘯𝘰𝘰𝘱𝘦𝘯𝘦𝘳 𝘯𝘰𝘳𝘦𝘧𝘦𝘳𝘳𝘦𝘳 𝘯𝘰𝘧𝘰𝘭𝘭𝘰𝘸">𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮@𝘸𝘦𝘢𝘳𝘦𝘩𝘢𝘤𝘬𝘦𝘳𝘰𝘯𝘦.𝘤𝘰𝘮</a></div>
 <div>𝘔𝘺 𝘞𝘳𝘪𝘵𝘦𝘶𝘱𝘴: <a 𝘩𝘳𝘦𝘧="𝘩𝘵𝘵𝘱𝘴://𝘸𝘸𝘸.𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮.𝘤𝘰𝘮/𝘸𝘳𝘪𝘵𝘦𝘶𝘱𝘴/" 𝘵𝘢𝘳𝘨𝘦𝘵="_𝘣𝘭𝘢𝘯𝘬" 𝘳𝘦𝘭="𝘯𝘰𝘰𝘱𝘦𝘯𝘦𝘳 𝘯𝘰𝘳𝘦𝘧𝘦𝘳𝘳𝘦𝘳 𝘯𝘰𝘧𝘰𝘭𝘭𝘰𝘸">𝘩𝘵𝘵𝘱𝘴://𝘸𝘸𝘸.𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮.𝘤𝘰𝘮/𝘸𝘳𝘪𝘵𝘦𝘶𝘱𝘴/</a> &amp;&amp; <a href="𝘩𝘵𝘵𝘱𝘴://𝘮𝘦𝘥𝘪𝘶𝘮.𝘤𝘰𝘮/@𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮_𝘹/" 𝘵𝘢𝘳𝘨𝘦𝘵="_𝘣𝘭𝘢𝘯𝘬" 𝘳𝘦𝘭="𝘯𝘰𝘰𝘱𝘦𝘯𝘦𝘳 𝘯𝘰𝘳𝘦𝘧𝘦𝘳𝘳𝘦𝘳 𝘯𝘰𝘧𝘰𝘭𝘭𝘰𝘸">𝘩𝘵𝘵𝘱𝘴://𝘮𝘦𝘥𝘪𝘶𝘮.𝘤𝘰𝘮/@𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮_𝘹/</a></div>
 <div>𝘍𝘰𝘶𝘯𝘥𝘦𝘳 &amp; 𝘏𝘦𝘢𝘥 𝘰𝘧 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘢𝘵 <a 𝘩𝘳𝘦𝘧="𝘩𝘵𝘵𝘱://𝘸𝘸𝘸.𝘩𝘢𝘤𝘬𝘦𝘳𝘴𝘱𝘶𝘯𝘬.𝘤𝘰𝘮/" 𝘵𝘢𝘳𝘨𝘦𝘵="_𝘣𝘭𝘢𝘯𝘬" 𝘳𝘦𝘭="𝘯𝘰𝘰𝘱𝘦𝘯𝘦𝘳 𝘯𝘰𝘳𝘦𝘧𝘦𝘳𝘳𝘦𝘳 𝘯𝘰𝘧𝘰𝘭𝘭𝘰𝘸">𝘩𝘵𝘵𝘱://𝘸𝘸𝘸.𝘩𝘢𝘤𝘬𝘦𝘳𝘴𝘱𝘶𝘯𝘬.𝘤𝘰𝘮</a> - 𝘛𝘩𝘦 𝘊𝘰𝘮𝘱𝘳𝘦𝘩𝘦𝘯𝘴𝘪𝘷𝘦 𝘊𝘺𝘣𝘦𝘳𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘗𝘭𝘢𝘵𝘧𝘰𝘳𝘮</div>
-<div>
-    For business inquiries: 
-    <a href="mailto:infosec@ethanabraham.com" target="_blank" rel="noopener noreferrer">
-        infosec@ethanabraham.com
-    </a>
-</div>
+For business inquiries: infosec@ethanabraham.com
 
 I'm a cybersecurity researcher from Thiruvalla, Kerala. I currently live in India.
 𝘐 𝘤𝘳𝘦𝘢𝘵𝘦𝘥 [**Insta Paper**](https://www.socialpilot.co/blog/blog-ideas), [**𝘞𝘦𝘣 𝘚𝘱𝘺**](https://www.socialpilot.co/blog/blog-ideas), [**𝘓𝘪𝘯𝘶𝘹 𝘓𝘦𝘢𝘥𝘴**](https://www.socialpilot.co/blog/blog-ideas), [**𝘛𝘸𝘪𝘵𝘵𝘦𝘳 𝘉𝘰𝘵**](https://www.socialpilot.co/blog/blog-ideas) 𝘢𝘯𝘥 𝘢 𝘣𝘶𝘯𝘤𝘩 𝘰𝘧 𝘰𝘵𝘩𝘦𝘳 𝘰𝘱𝘦𝘯 𝘴𝘰𝘶𝘳𝘤𝘦 𝘵𝘰𝘰𝘭𝘴.
