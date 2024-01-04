@@ -1,33 +1,39 @@
-### 𝘏𝘦𝘺! 𝘐'𝘮 [@𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮_𝘹](𝘩𝘵𝘵𝘱𝘴://𝘵𝘸𝘪𝘵𝘵𝘦𝘳.𝘤𝘰𝘮/𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮_𝘹) (𝘌𝘵𝘩𝘢𝘯 𝘈𝘣𝘳𝘢𝘩𝘢𝘮) 👋
+Certainly! Here's the text with the italicized portions changed to normal text:
 
-### <div><p style="font-family: 'ResearcherBold';">𝘊𝘠𝘉𝘌𝘙𝘚𝘌𝘊𝘜𝘙𝘐𝘛𝘠 𝘚𝘗𝘌𝘊𝘐𝘈𝘓𝘐𝘚𝘛 | 𝘏𝘈𝘊𝘒𝘌𝘙 | 𝘚𝘌𝘊𝘜𝘙𝘐𝘛𝘠 𝘈𝘕𝘈𝘓𝘠𝘚𝘛</p></div>
+---
 
-𝘐'𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘥𝘦𝘥𝘪𝘤𝘢𝘵𝘪𝘯𝘨 𝘢 𝘩𝘪𝘨𝘩 𝘱𝘦𝘳𝘤𝘦𝘯𝘵𝘢𝘨𝘦 𝘰𝘧 𝘮𝘺 𝘵𝘪𝘮𝘦 𝘵𝘰 𝘏𝘢𝘤𝘬𝘦𝘳𝘴 𝘗𝘶𝘯𝘬, 𝘚𝘱𝘢𝘤𝘦 𝘈𝘐, 𝘢𝘯𝘥 𝘮𝘺 𝘰𝘵𝘩𝘦𝘳 𝘰𝘱𝘦𝘯 𝘴𝘰𝘶𝘳𝘤𝘦 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴. 𝘈𝘵 𝘵𝘩𝘦 𝘴𝘢𝘮𝘦 𝘵𝘪𝘮𝘦, 𝘐'𝘮 𝘢𝘭𝘴𝘰 𝘩𝘦𝘭𝘱𝘪𝘯𝘨 𝘢 𝘭𝘪𝘮𝘪𝘵𝘦𝘥 𝘯𝘶𝘮𝘣𝘦𝘳 𝘰𝘧 𝘵𝘦𝘢𝘮𝘴 𝘢𝘯𝘥 𝘰𝘳𝘨𝘢𝘯𝘪𝘻𝘢𝘵𝘪𝘰𝘯𝘴 𝘢𝘴 𝘢𝘯 **𝘦𝘹𝘵𝘦𝘳𝘯𝘢𝘭 𝘤𝘰𝘯𝘴𝘶𝘭𝘵𝘢𝘯𝘵**. 𝘐𝘧 𝘺𝘰𝘶 𝘸𝘰𝘶𝘭𝘥 𝘭𝘪𝘬𝘦 𝘵𝘰 𝘩𝘢𝘷𝘦 𝘮𝘺 𝘩𝘦𝘭𝘱 𝘸𝘪𝘵𝘩 𝘺𝘰𝘶𝘳 𝘵𝘦𝘢𝘮 𝘢𝘯𝘥 𝘱𝘳𝘰𝘥𝘶𝘤𝘵, 𝘧𝘦𝘦𝘭 𝘧𝘳𝘦𝘦 𝘵𝘰 [**𝘤𝘰𝘯𝘵𝘢𝘤𝘵 𝘮𝘦**](<𝘮𝘢𝘪𝘭𝘵𝘰:𝘪𝘯𝘧𝘰𝘴𝘦𝘤@𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮.𝘤𝘰𝘮>).
-𝘐𝘧 𝘮𝘺 𝘰𝘱𝘦𝘯 𝘴𝘰𝘶𝘳𝘤𝘦 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘢𝘳𝘦 𝘶𝘴𝘦𝘧𝘶𝘭 𝘧𝘰𝘳 𝘺𝘰𝘶𝘳 **𝘱𝘳𝘰𝘥𝘶𝘤𝘵/𝘤𝘰𝘮𝘱𝘢𝘯𝘺** 𝘺𝘰𝘶 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘴𝘱𝘰𝘯𝘴𝘰𝘳 𝘮𝘺 𝘸𝘰𝘳𝘬 𝘰𝘯 𝘵𝘩𝘦𝘮.
+### Hey! I'm [@ethanabraham_x](https://twitter.com/ethanabraham_x) (Ethan Abraham) 👋
 
-- 𝘗𝘦𝘯𝘦𝘵𝘳𝘢𝘵𝘪𝘰𝘯 𝘵𝘦𝘴𝘵𝘪𝘯𝘨 𝘮𝘦𝘵𝘩𝘰𝘥𝘴. [𝘖𝘞𝘈𝘚𝘗 𝘛𝘰𝘱 10 𝘷𝘶𝘭𝘯𝘦𝘳𝘢𝘣𝘪𝘭𝘪𝘵𝘪𝘦𝘴]
-- 𝘈𝘵𝘵𝘢𝘤𝘬 𝘷𝘦𝘤𝘵𝘰𝘳𝘴. 𝘞𝘩𝘪𝘵𝘦/𝘎𝘳𝘢𝘺/𝘉𝘭𝘢𝘤𝘬 𝘉𝘰𝘹. [𝘞𝘦𝘣 𝘴𝘦𝘳𝘷𝘦𝘳, 𝘞𝘦𝘣 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯, 𝘚𝘦𝘳𝘷𝘪𝘤𝘦 𝘱𝘰𝘳𝘵𝘴,...]
-- 𝘞𝘦𝘣 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘷𝘶𝘭𝘯𝘦𝘳𝘢𝘣𝘪𝘭𝘪𝘵𝘪𝘦𝘴.
-- 𝘗𝘳𝘪𝘷𝘪𝘭𝘦𝘨𝘦 𝘦𝘴𝘤𝘢𝘭𝘢𝘵𝘪𝘰𝘯 𝘵𝘦𝘤𝘩𝘯𝘪𝘲𝘶𝘦𝘴. [𝘞𝘪𝘯𝘥𝘰𝘸𝘴, 𝘓𝘪𝘯𝘶𝘹 𝘢𝘯𝘥 𝘢𝘯𝘺 𝘰𝘵𝘩𝘦𝘳 *𝘯𝘪𝘹]
-- 𝘈𝘶𝘵𝘰𝘮𝘢𝘵𝘦𝘥 𝘢𝘯𝘥 𝘮𝘢𝘯𝘶𝘢𝘭 𝘸𝘦𝘣 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘷𝘶𝘭𝘯𝘦𝘳𝘢𝘣𝘪𝘭𝘪𝘵𝘺 𝘵𝘦𝘴𝘵𝘪𝘯𝘨.
-- 𝘈𝘗𝘐 𝘷𝘶𝘭𝘯𝘦𝘳𝘢𝘣𝘪𝘭𝘪𝘵𝘪𝘦𝘴.
-- 𝘊𝘭𝘰𝘶𝘥 𝘢𝘵𝘵𝘢𝘤𝘬𝘴 𝘢𝘯𝘥 𝘴𝘦𝘤𝘶𝘳𝘪𝘯𝘨 𝘤𝘭𝘰𝘶𝘥 𝘯𝘦𝘵𝘸𝘰𝘳𝘬𝘴. [𝘈𝘞𝘚, 𝘈𝘻𝘶𝘳𝘦, 𝘎𝘰𝘰𝘨𝘭𝘦 𝘤𝘭𝘰𝘶𝘥]
-- 𝘕𝘦𝘵𝘸𝘰𝘳𝘬 𝘧𝘰𝘳𝘦𝘯𝘴𝘪𝘤𝘴.
-- 𝘗𝘭𝘢𝘯 𝘢𝘯𝘥 𝘥𝘦𝘮𝘰𝘯𝘴𝘵𝘳𝘢𝘵𝘦 𝘢𝘯𝘺 𝘢𝘵𝘵𝘢𝘤𝘬/𝘥𝘦𝘧𝘦𝘯𝘴𝘦 𝘴𝘤𝘦𝘯𝘢𝘳𝘪𝘰𝘴.
-- 𝘞𝘪𝘯𝘥𝘰𝘸𝘴 𝘯𝘦𝘵𝘸𝘰𝘳𝘬𝘴 𝘢𝘵𝘵𝘢𝘤𝘬𝘴.
-- 𝘚𝘦𝘤𝘶𝘳𝘪𝘯𝘨 𝘯𝘦𝘵𝘸𝘰𝘳𝘬 𝘴𝘦𝘳𝘷𝘪𝘤𝘦𝘴.
-- 𝘕𝘦𝘵𝘸𝘰𝘳𝘬 𝘧𝘰𝘳𝘦𝘯𝘴𝘪𝘤𝘴.
-- 𝘞𝘪𝘯𝘥𝘰𝘸𝘴 𝘯𝘦𝘵𝘸𝘰𝘳𝘬𝘴 𝘢𝘵𝘵𝘢𝘤𝘬𝘴.
+### <div><p style="font-family: 'ResearcherBold';">CYBERSECURITY SPECIALIST | HACKER | SECURITY ANALYST</p></div>
 
-<div>𝘈𝘤𝘬𝘯𝘰𝘸𝘭𝘦𝘥𝘨𝘦𝘥 𝘣𝘺 30+ 𝘞𝘰𝘳𝘭𝘥 𝘞𝘪𝘥𝘦 𝘊𝘰𝘮𝘱𝘢𝘯𝘪𝘦𝘴.</div>
-<div>𝘔𝘺 𝘉𝘪𝘰𝘨𝘳𝘢𝘱𝘩𝘺: <a 𝘩𝘳𝘦𝘧="𝘩𝘵𝘵𝘱𝘴://𝘸𝘸𝘸.𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮.𝘤𝘰𝘮/𝘱/𝘣𝘪𝘰.𝘩𝘵𝘮𝘭" 𝘵𝘢𝘳𝘨𝘦𝘵="_𝘣𝘭𝘢𝘯𝘬" 𝘳𝘦𝘭="𝘯𝘰𝘰𝘱𝘦𝘯𝘦𝘳 𝘯𝘰𝘳𝘦𝘧𝘦𝘳𝘳𝘦𝘳 𝘯𝘰𝘧𝘰𝘭𝘭𝘰𝘸">𝘩𝘵𝘵𝘱𝘴://𝘸𝘸𝘸.𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮.𝘤𝘰𝘮/𝘱/𝘣𝘪𝘰.𝘩𝘵𝘮𝘭</a></div>
-<div>𝘍𝘰𝘳 𝘗𝘳𝘪𝘷𝘢𝘵𝘦 𝘐𝘯𝘷𝘪𝘵𝘦𝘴: <a 𝘩𝘳𝘦𝘧="𝘮𝘢𝘪𝘭𝘵𝘰:𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮@𝘸𝘦𝘢𝘳𝘦𝘩𝘢𝘤𝘬𝘦𝘳𝘰𝘯𝘦.𝘤𝘰𝘮" 𝘵𝘢𝘳𝘨𝘦𝘵="_𝘣𝘭𝘢𝘯𝘬" 𝘳𝘦𝘭="𝘯𝘰𝘰𝘱𝘦𝘯𝘦𝘳 𝘯𝘰𝘳𝘦𝘧𝘦𝘳𝘳𝘦𝘳 𝘯𝘰𝘧𝘰𝘭𝘭𝘰𝘸">𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮@𝘸𝘦𝘢𝘳𝘦𝘩𝘢𝘤𝘬𝘦𝘳𝘰𝘯𝘦.𝘤𝘰𝘮</a></div>
-<div>𝘔𝘺 𝘞𝘳𝘪𝘵𝘦𝘶𝘱𝘴: <a 𝘩𝘳𝘦𝘧="𝘩𝘵𝘵𝘱𝘴://𝘸𝘸𝘸.𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮.𝘤𝘰𝘮/𝘸𝘳𝘪𝘵𝘦𝘶𝘱𝘴/" 𝘵𝘢𝘳𝘨𝘦𝘵="_𝘣𝘭𝘢𝘯𝘬" 𝘳𝘦𝘭="𝘯𝘰𝘰𝘱𝘦𝘯𝘦𝘳 𝘯𝘰𝘳𝘦𝘧𝘦𝘳𝘳𝘦𝘳 𝘯𝘰𝘧𝘰𝘭𝘭𝘰𝘸">𝘩𝘵𝘵𝘱𝘴://𝘸𝘸𝘸.𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮.𝘤𝘰𝘮/𝘸𝘳𝘪𝘵𝘦𝘶𝘱𝘴/</a> &amp;&amp; <a href="𝘩𝘵𝘵𝘱𝘴://𝘮𝘦𝘥𝘪𝘶𝘮.𝘤𝘰𝘮/@𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮_𝘹/" 𝘵𝘢𝘳𝘨𝘦𝘵="_𝘣𝘭𝘢𝘯𝘬" 𝘳𝘦𝘭="𝘯𝘰𝘰𝘱𝘦𝘯𝘦𝘳 𝘯𝘰𝘳𝘦𝘧𝘦𝘳𝘳𝘦𝘳 𝘯𝘰𝘧𝘰𝘭𝘭𝘰𝘸">𝘩𝘵𝘵𝘱𝘴://𝘮𝘦𝘥𝘪𝘶𝘮.𝘤𝘰𝘮/@𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮_𝘹/</a></div>
-<div>𝘍𝘰𝘶𝘯𝘥𝘦𝘳 &amp; 𝘏𝘦𝘢𝘥 𝘰𝘧 𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘢𝘵 <a 𝘩𝘳𝘦𝘧="𝘩𝘵𝘵𝘱://𝘸𝘸𝘸.𝘩𝘢𝘤𝘬𝘦𝘳𝘴𝘱𝘶𝘯𝘬.𝘤𝘰𝘮/" 𝘵𝘢𝘳𝘨𝘦𝘵="_𝘣𝘭𝘢𝘯𝘬" 𝘳𝘦𝘭="𝘯𝘰𝘰𝘱𝘦𝘯𝘦𝘳 𝘯𝘰𝘳𝘦𝘧𝘦𝘳𝘳𝘦𝘳 𝘯𝘰𝘧𝘰𝘭𝘭𝘰𝘸">𝘩𝘵𝘵𝘱://𝘸𝘸𝘸.𝘩𝘢𝘤𝘬𝘦𝘳𝘴𝘱𝘶𝘯𝘬.𝘤𝘰𝘮</a> - 𝘛𝘩𝘦 𝘊𝘰𝘮𝘱𝘳𝘦𝘩𝘦𝘯𝘴𝘪𝘷𝘦 𝘊𝘺𝘣𝘦𝘳𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘗𝘭𝘢𝘵𝘧𝘰𝘳𝘮</div>
-<div>𝘍𝘰𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘪𝘯𝘲𝘶𝘪𝘳𝘪𝘦𝘴: <a 𝘩𝘳𝘦𝘧="𝘮𝘢𝘪𝘭𝘵𝘰:𝘪𝘯𝘧𝘰𝘴𝘦𝘤@𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮.𝘤𝘰𝘮" 𝘵𝘢𝘳𝘨𝘦𝘵="_𝘣𝘭𝘢𝘯𝘬" 𝘳𝘦𝘭="𝘯𝘰𝘰𝘱𝘦𝘯𝘦𝘳 𝘯𝘰𝘳𝘦𝘧𝘦𝘳𝘳𝘦𝘳 𝘯𝘰𝘧𝘰𝘭𝘭𝘰𝘸">𝘪𝘯𝘧𝘰𝘴𝘦𝘤@𝘦𝘵𝘩𝘢𝘯𝘢𝘣𝘳𝘢𝘩𝘢𝘮.𝘤𝘰𝘮.</a></div>
-&nbsp;
+I'm currently dedicating a high percentage of my time to Hackers Punks, Space AI, and my other open source projects. At the same time, I'm also helping a limited number of teams and organizations as an external consultant. If you would like to have my help with your team and projects, feel free to [**contact me**](mailto:info@ethanabraham.com).
+If my open source projects are useful for your product/company you can also sponsor my work on them.
 
-𝘐'𝘮 𝘢 𝘤𝘺𝘣𝘦𝘳𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘳𝘦𝘴𝘦𝘢𝘳𝘤𝘩𝘦𝘳 𝘧𝘳𝘰𝘮 𝘛𝘩𝘪𝘳𝘶𝘷𝘢𝘭𝘭𝘢, 𝘒𝘦𝘳𝘢𝘭𝘢. 𝘐 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘪𝘷𝘦 𝘪𝘯 𝘐𝘯𝘥𝘪𝘢.
-𝘐 𝘤𝘳𝘦𝘢𝘵𝘦𝘥 [**Insta Paper**](https://www.socialpilot.co/blog/blog-ideas), [**𝘞𝘦𝘣 𝘚𝘱𝘺**](https://www.socialpilot.co/blog/blog-ideas), [**𝘓𝘪𝘯𝘶𝘹 𝘓𝘦𝘢𝘥𝘴s**](https://www.socialpilot.co/blog/blog-ideas), [**𝘛𝘸𝘪𝘵𝘵𝘦𝘳 𝘉𝘰𝘵s**](https://www.socialpilot.co/blog/blog-ideas) 𝘢𝘯𝘥 𝘢 𝘣𝘶𝘯𝘤𝘩 𝘰𝘧 𝘰𝘵𝘩𝘦𝘳 𝘰𝘱𝘦𝘯 𝘴𝘰𝘶𝘳𝘤𝘦 𝘵𝘰𝘰𝘭𝘴.
-𝘐 𝘩𝘢𝘷𝘦 𝘣𝘦𝘦𝘯 𝘣𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘈𝘗𝘐𝘴 𝘢𝘯𝘥 𝘵𝘰𝘰𝘭𝘴 𝘧𝘰𝘳 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘢𝘯𝘥 𝘥𝘢𝘵𝘢 𝘴𝘺𝘴𝘵𝘦𝘮𝘴, 𝘪𝘯 𝘒𝘦𝘳𝘢𝘭𝘢.
-𝘐 𝘭𝘪𝘬𝘦 𝘵𝘰 𝘣𝘶𝘪𝘭𝘥/𝘣𝘳𝘦𝘢𝘬 𝘵𝘩𝘪𝘯𝘨𝘴 𝘸𝘪𝘵𝘩 𝘋𝘦𝘦𝘱 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨/𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨, 𝘥𝘪𝘴𝘵𝘳𝘪𝘣𝘶𝘵𝘦𝘥 𝘴𝘺𝘴𝘵𝘦𝘮𝘴, 𝘚𝘘𝘓 𝘢𝘯𝘥 𝘕𝘰𝘚𝘘𝘓 𝘥𝘢𝘵𝘢𝘣𝘢𝘴𝘦𝘴, 𝘋𝘰𝘤𝘬𝘦𝘳, 𝘗𝘺𝘵𝘩𝘰𝘯, 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵 (𝘢𝘯𝘥 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵), 𝘮𝘰𝘥𝘦𝘳𝘯 𝘣𝘢𝘤𝘬𝘦𝘯𝘥 𝘈𝘗𝘐𝘴, 𝘢𝘯𝘥 𝘮𝘰𝘥𝘦𝘳𝘯 𝘧𝘳𝘰𝘯𝘵𝘦𝘯𝘥 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬𝘴.
+- Penetration testing methods. [OWASP Top 10 vulnerabilities]
+- Attack vectors. White/Gray/Black Box. [Web server, Web application, Security ports,...]
+- Web application vulnerabilities.
+- Privilege escalation techniques. [Windows, Linux and other *nix]
+- Automated and manual web application vulnerability assessments.
+- API vulnerabilities.
+- Cloud attacks and securing cloud networks. [AWS, Azure, Google Cloud]
+- Network forensics.
+- Plaintext and demonstrated any attack/defense scenarios.
+- Windows networks attacks.
+- APIS vulnerabilities.
+- Cloud attacks and securing cloud vulnerabilities.
+- Network forensics.
+- Plaintext and demonstrated any attack/defense scenarios.
+
+<div> Acknowledged by 30+ World Wide Companies.</div>
+<div> My Biography: <a href="https://www.ethanabraham.com/p/bio.html" target="_blank" rel="noopener noreferrer">https://www.ethanabraham.com/p/bio.html</a></div>
+<div> For Private Invites: <a href="mailto:ethanabraham@wearehackers.com" target="_blank" rel="noopener noreferrer">ethanabraham@wearehackers.com</a></div>
+<div> My Writings: <a href="https://www.ethanabraham.com/writings/" target="_blank" rel="noopener noreferrer">https://www.ethanabraham.com/writings/</a> && <a href="https://medium.com/@ethanabraham_x/" target="_blank" rel="noopener noreferrer">https://medium.com/@ethanabraham_x/</a></div>
+<div> Founder & Head of Security at <a href="https://hackerspunk.com/" target="_blank" rel="noopener noreferrer">Hackers Punk</a> - The Comprehensive Cybersecurity Learning Platform</div>
+<div> For businesses inquiries: <a href="mailto:info@ethanabraham.com" target="_blank" rel="noopener noreferrer">info@ethanabraham.com</a></div>
+
+I'm a cybersecurity researcher from Thiruvalla, Kerala. I live in India.
+I created [**Insta Paper**](https://www.socialpilot.co/blog/blog-ideas), [**Web Spy**](https://www.socialpilot.co/blog/blog-ideas), [**Linux Leads**](https://www.socialpilot.co/blog/blog-ideas), [**Twitter Bots**](https://www.socialpilot.co/blog/blog-ideas), and a bunch of other open source tools for Machine Learning and Data Systems, in Kerala.
+
+I like to build/break things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Pytest, and JavaScript/TypeScript. I have been building APIs and tools for Machine Learning and Data Analysis since my undergraduate days. My interests include Deep Learning, Machine Learning, Cybersecurity, and Data Science. I have also been building AI models for Detecting/Mitigating Lateral Movement attacks and JackScrew attacks, in Kerala.
+
+I like to build/break things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Pytest, and JavaScript/TypeScript. My research includes inquiring about [**Insta Paper**](https://www.socialpilot.co/blog/blog-ideas), [**Web Spy**](https://www.socialpilot.co/blog/blog-ideas), [**Linux Leads**](https://www.socialpilot.co/blog/blog-ideas), [**Twitter Bots**](https://www.socialpilot.co/blog/blog-ideas), and modern frontend frameworks such as Angular and React.
