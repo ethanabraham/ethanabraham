@@ -19,6 +19,10 @@ If my open source projects are useful for your product/company you can also spon
 - Cloud attacks and securing cloud vulnerabilities.
 - Network forensics.
 - Plaintext and demonstrated any attack/defense scenarios.
+- APIS vulnerabilities.
+- Cloud attacks and securing cloud vulnerabilities.
+- Network forensics.
+- Plaintext and demonstrated any attack/defense scenarios.
 
 <div> Acknowledged by 30+ World Wide Companies.</div>
 <div> My Biography: <a href="https://www.ethanabraham.com/p/bio.html" target="_blank" rel="noopener noreferrer">https://www.ethanabraham.com/p/bio.html</a></div>
