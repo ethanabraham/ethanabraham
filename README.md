@@ -1,7 +1,3 @@
-Certainly! Here's the text with the italicized portions changed to normal text:
-
----
-
 ### Hey! I'm [@ethanabraham_x](https://twitter.com/ethanabraham_x) (Ethan Abraham) 👋
 
 ### <div><p style="font-family: 'ResearcherBold';">CYBERSECURITY SPECIALIST | HACKER | SECURITY ANALYST</p></div>
