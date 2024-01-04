@@ -26,7 +26,6 @@ If my open source projects are useful for your product/company you can also spon
 <div> My Writings: <a href="https://www.ethanabraham.com/writings/" target="_blank" rel="noopener noreferrer">https://www.ethanabraham.com/writings/</a> && <a href="https://medium.com/@ethanabraham_x/" target="_blank" rel="noopener noreferrer">https://medium.com/@ethanabraham_x/</a></div>
 <div> Founder & Head of Security at <a href="https://hackerspunk.com/" target="_blank" rel="noopener noreferrer">Hackers Punk</a> - The Comprehensive Cybersecurity Learning Platform</div>
 <div> For businesses inquiries: <a href="mailto:info@ethanabraham.com" target="_blank" rel="noopener noreferrer">info@ethanabraham.com</a></div>
-
 &nbsp;
 
 I'm a cybersecurity researcher from Thiruvalla, Kerala. I currently live in India. I created Insta Paper, Web Spy, Linux Leads, Twitter Bots, and a bunch of other open-source tools. I have been building APIs and tools for Machine Learning and data systems, in Kerala. I like to build/break things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TensorFlow (and Jaxascript), modern backend APIs, and modern frontend frameworks.
