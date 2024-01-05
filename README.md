@@ -14,7 +14,7 @@ If my open source projects are useful for your product/company you can also spon
 - Cloud attacks and securing cloud networks. [AWS, Azure, Google Cloud]
 - Network forensics.
 - Plaintext and demonstrated any attack/defense scenarios.
-- Windows networks attacks.
+- Windows networks attacks.....
 
 <div> Acknowledged by 30+ World Wide Companies.</div>
 <div> My Biography: <a href="https://www.ethanabraham.com/p/bio.html" target="_blank" rel="noopener noreferrer">https://www.ethanabraham.com/p/bio.html</a></div>
