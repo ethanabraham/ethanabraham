@@ -7,7 +7,7 @@ If my open source projects are useful for your product/company you can also spon
 
 - Penetration testing methods. [OWASP Top 10 vulnerabilities]
 - Attack vectors. White/Gray/Black Box. [Web server, Web application, Security ports,...]
-- Web application vulnerabilities..
+- Web application vulnerabilities.
 - Privilege escalation techniques. [Windows, Linux and other *nix]
 - Automated and manual web application vulnerability assessments....
 - API vulnerabilities..
