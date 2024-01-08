@@ -9,8 +9,8 @@ If my open source projects are useful for your product/company you can also spon
 - Attack vectors. White/Gray/Black Box. [Web server, Web application, Security ports,...]
 - Web application vulnerabilities.
 - Privilege escalation techniques. [Windows, Linux and other *nix]
-- Automated and manual web application vulnerability assessments...
-- API vulnerabilities...
+- Automated and manual web application vulnerability assessments.
+- API vulnerabilities.
 - Cloud attacks and securing cloud networks. [AWS, Azure, Google Cloud]
 - Network forensics.
 - Plaintext and demonstrated any attack/defense scenarios.
