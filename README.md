@@ -7,14 +7,14 @@ If my open source projects are useful for your product/company you can also spon
 
 - Penetration testing methods. [OWASP Top 10 vulnerabilities]
 - Attack vectors. White/Gray/Black Box. [Web server, Web application, Security ports,...]
-- Web application vulnerabilities.
+- Web application vulnerabilities....
 - Privilege escalation techniques. [Windows, Linux and other *nix]
-- Automated and manual web application vulnerability assessments.
-- API vulnerabilities.
+- Automated and manual web application vulnerability assessments....
+- API vulnerabilities...
 - Cloud attacks and securing cloud networks. [AWS, Azure, Google Cloud]
-- Network forensics.
-- Plaintext and demonstrated any attack/defense scenarios.
-- Windows networks attacks.
+- Network forensics...
+- Plaintext and demonstrated any attack/defense scenarios....
+- Windows networks attacks....
 <div> Acknowledged by 30+ World Wide Companies.</div>
 <div> My Biography: <a href="https://www.ethanabraham.com/p/bio.html" target="_blank" rel="noopener noreferrer">https://www.ethanabraham.com/p/bio.html</a></div>
 <div> For Private Invites: <a href="mailto:ethanabraham@wearehackers.com" target="_blank" rel="noopener noreferrer">ethanabraham@wearehackers.com</a></div>
