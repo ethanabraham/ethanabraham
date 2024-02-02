@@ -15,6 +15,9 @@ If my open source projects are useful for your product/company you can also spon
 - Network forensics.
 - Plaintext and demonstrated any attack/defense scenarios.
 - Windows networks attacks.
+- Network forensics.
+- Plaintext and demonstrated any attack/defense scenarios.
+- Windows networks attacks.
 <div> Acknowledged by 30+ World Wide Companies.</div>
 <div> My Biography: <a href="https://www.ethanabraham.com/p/bio.html" target="_blank" rel="noopener noreferrer">https://www.ethanabraham.com/p/bio.html</a></div>
 <div> For Private Invites: <a href="mailto:ethanabraham@wearehackers.com" target="_blank" rel="noopener noreferrer">ethanabraham@wearehackers.com</a></div>
