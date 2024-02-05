@@ -13,7 +13,7 @@ If my open source projects are useful for your product/company you can also spon
 - API vulnerabilities.....
 - Cloud attacks and securing cloud networks. [AWS, Azure, Google Cloud]
 - Network forensics.
-- Plaintext and demonstrated any attack/defense scenarios.
+- Plaintext and demonstrated any attack/defense scenarios....
 - Windows networks attacks.
 - Network forensics.
 - Plaintext and demonstrated any attack/defense scenarios.
