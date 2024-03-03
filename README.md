@@ -1,4 +1,4 @@
-![I am Ma. Nikka S. Herrera ](https://raw.githubusercontent.com/ethanabraham/ethanabraham/main/kg.png)
+![I am Ma. Nikka S. Herrera ](.)
 
 ### Hey! I'm [@ethanabraham_x](https://twitter.com/ethanabraham_x) (Ethan Abraham) 👋
 
