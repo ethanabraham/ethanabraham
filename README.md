@@ -1,4 +1,4 @@
-![I am Ma. Nikka S. Herrera ](.)
+![I am Mr. Ethan Abraham ](.)
 
 ### Hey! I'm [@ethanabraham_x](https://twitter.com/ethanabraham_x) (Ethan Abraham) 👋
 
