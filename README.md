@@ -3,7 +3,7 @@
 ### Hey! I'm [@ethanabraham_x](https://twitter.com/ethanabraham_x) (Ethan Abraham) 👋
 ### <div><p style="font-family: ResearcherBold; text-align: center;">CYBERSECURITY EXPERT | HACKER | SECURITY ANALYST</p></div>
 
-I'm currently dedicating a high percentage of my time to Hackers Punks, Space AI, and my other open source projects. At the same time, I'm also helping a limited number of teams and organizations as an external consultant. If you would like to have my help with your team and projects, feel free to [**contact me**](mailto:info@ethanabraham.com).
+I'm currently dedicating a high percentage of my time to THE Cyberdyne and my other open source projects. At the same time, I'm also helping a limited number of teams and organizations as an external consultant. If you would like to have my help with your team and projects, feel free to [**contact me**](mailto:info@ethanabraham.com).
 If my open source projects are useful for your product/company you can also sponsor my work on them.
 
 - Penetration testing methods. [OWASP Top 10 vulnerabilities]
