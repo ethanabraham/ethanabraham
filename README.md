@@ -21,7 +21,7 @@ If my open source projects are useful for your product/company you can also spon
 <div> Acknowledged by 30+ World Wide Companies.</div>
 <div> My Biography: <a href="https://www.ethanabraham.com/p/bio.html" target="_blank" rel="noopener noreferrer">https://www.ethanabraham.com/p/bio.html</a></div>
 <div> For Private Invites: <a href="mailto:ethanabraham@wearehackers.com" target="_blank" rel="noopener noreferrer">ethanabraham@wearehackers.com</a></div>
-<div> My Writings: <a href="https://www.ethanabraham.com/writings/" target="_blank" rel="noopener noreferrer">https://www.ethandfddddfadbraham.com/writings/</a> && <a href="https://medium.com/@ethanabraham_x/" target="_blank" rel="noopener noreferrer">https://medium.com/@ethanabraham_x/</a></div>
+<div> My Writings: <a href="https://www.ethanabraham.com/writings/" target="_blank" rel="noopener noreferrer">https://www.ethandfdddddfadbraham.com/writings/</a> && <a href="https://medium.com/@ethanabraham_x/" target="_blank" rel="noopener noreferrer">https://medium.com/@ethanabraham_x/</a></div>
 <div> Founder & Head of Security at <a href="https://www.hackerspunk.com/" target="_blank" rel="noopener noreferrer">Hackers Punk</a> - The Comprehensive Cybersecurity Learning Platform</div>
 <div> For businesses inquiries: <a href="mailto:info@ethanabraham.com" target="_blank" rel="noopener noreferrer">info@ethanabraham.com</a></div>
 &nbsp;
