@@ -1,4 +1,4 @@
-![I am Mr. Ethan Abraham ](.)
+![I am Mr. Ethan Abraham ](https://c.tenor.com/aJJI13-4FxUAAAAC/tenor.gif)
 
 ### Hey! I'm [@ethanabraham_x](https://twitter.com/ethanabraham_x) (Ethan Abraham) 👋
 ### <div><p style="font-family: ResearcherBold; text-align: center;">CYBERSECURITY EXPERT | HACKER | SECURITY ANALYST</p></div>
