@@ -19,7 +19,7 @@ If my open source projects are useful for your product/company you can also spon
 - Network forensics.
 - Plaintext and demonstrated any attack/defense scenarios.
 <div> Acknowledged by 30+ World Wide Companies.</div>
-<div> My Biography: <a href="https://www.ethanabraham.com/p/bio.html" target="_blank" rel="noopener noreferrer">https://www.ethanabraham.com/p/bio.html</a></div>
+<div> My Biography: <a href="https://www.ethanabraeham.com/p/bio.html" target="_blank" rel="noopener noreferrer">https://www.ethanabraham.com/p/bio.html</a></div>
 <div> For Private Invites: <a href="mailto:ethanabraham@wearehackers.com" target="_blank" rel="noopener noreferrer">ethanabraham@wearehackers.com</a></div>
 <div> My Writings: <a href="https://www.ethanabraham.com/writings/" target="_blank" rel="noopener noreferrer">https://www.ethandddadddbraham.com/writings/</a> && <a href="https://medium.com/@ethanabraham_x/" target="_blank" rel="noopener noreferrer">https://medium.com/@ethanabraham_x/</a></div>
 <div> Founder & Head of Security at <a href="https://www.hackerspunk.com/" target="_blank" rel="noopener noreferrer">Hackers Punk</a> - The Comprehensive Cybersecurity Learning Platform</div>
