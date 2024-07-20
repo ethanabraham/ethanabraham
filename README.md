@@ -1,6 +1,6 @@
 ---
 
-Driving cybersecurity innovation at THE Cyberdyne. Open-source creator. Strategic consultant. Seeking impactful partnerships. Ready to elevate your security? Reach out.
+Security engineer specializing in applied research. Creator of open-source tools for cybersecurity. Contributor to THE Cyberdyne. Focused on innovative defense strategies and vulnerability analysis. Open to collaboration on impactful projects.
 
 ### Expertise
 
