@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ethanabraham/ethanabraham/main/eaa.png" width="100%">
+  <img src="https://raw.githubusercontent.com/ethanabraham/ethanabraham/main/ethan.png" width="100%">
   <p>Hey 👋, I am Ethan, a security engineer with strong proficiency in computer security and applied security research.</p>
 </div>
 
