@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-custom-header-image-url.png" alt="Ethan Abraham" width="100%">
+  <img src="https://user-images.githubusercontent.com/4301109/94873463-3f730f80-041d-11eb-9594-e0185e4ce7ff.png" alt="Ethan Abraham" width="100%">
   <h1>Ethan Abraham</h1>
   <p><em>Cybersecurity Innovator | Founder & Head of Security at THE Cyberdyne</em></p>
 </div>
