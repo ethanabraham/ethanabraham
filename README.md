@@ -1,25 +1,34 @@
-I'm currently dedicating a high percentage of my time to THE Cyberdyne and my other open source projects. At the same time, I'm also helping a limited number of teams and organizations as an external consultant. If you would like to have my help with your team and projects, feel free to [**contact me**](mailto:info@ethanabraham.com).
-If my open source projects are useful for your product/company you can also sponsor my work on them.
+---
 
-- Penetration testing methods. [OWASP Top 10 vulnerabilities]
-- Attack vectors. White/Gray/Black Box. [Web server, Web application, Security ports,...]
-- Web application vulnerabilities.
-- Privilege escalation techniques. [Windows, Linux and other *nix]
-- Automated and manual web application vulnerability assessments.
-- API vulnerabilities.....
-- Cloud attacks and securing cloud networks. [AWS, Azure, Google Cloud]
-- Network forensics.
-- Plaintext and demonstrated any attack/defense scenarios.
-- Windows networks attacks.
-- Network forensics.
-- Plaintext and demonstrated any attack/defense scenarios.
-<div> Acknowledged by 30+ World Wide Companies.</div>
-<div> My Biography: <a href="https://www.ethanabraeham.com/p/bio.html" target="_blank" rel="noopener noreferrer">https://www.ethanabraham.com/p/bio.html</a></div>
-<div> For Private Invites: <a href="mailto:ethanabraham@wearehackers.com" target="_blank" rel="noopener noreferrer">ethanabraham@wearehackers.com</a></div>
-<div> My Writings: <a href="https://www.ethanaaham.com/writings/" target="_blank" rel="noopener noreferrer">https://www.ethandddadddbraham.com/writings/</a> && <a href="https://medium.com/@ethanabraham_x/" target="_blank" rel="noopener noreferrer">https://medium.com/@ethanabraham_x/</a></div>
-<div> Founder & Head of Security at <a href="https://www.hackerspunk.com/" target="_blank" rel="noopener noreferrer">THE Cyberdyne</a> - The Comprehensive Cybersecurity Learning Platform</div>
-<div> For businesses inquiries: <a href="mailto:info@ethanabraham.com" target="_blank" rel="noopener noreferrer">info@ethanabraham.com</a></div>
-&nbsp;
+I am currently dedicating a significant portion of my time to THE Cyberdyne and my various open-source projects. Additionally, I offer my expertise as an external consultant to a select number of teams and organizations. If you are interested in my assistance with your team and projects, please feel free to [**contact me**](mailto:info@ethanabraham.com). If my open-source projects benefit your product or company, you can also sponsor my work.
 
-I'm a cybersecurity researcher from Thiruvalla, Kerala. I currently live in India. I created Insta Paper, Web Spy, Linux Leads, Twitter Bots, and a bunch of other open-source tools. I have been building APIs and tools for Machine Learning and data systems, in Kerala. I like to build/break things with Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TensorFlow (and Jaxascript), modern backend APIs, and modern frontend frameworks.
+### Expertise
 
+- Penetration Testing Methods: [OWASP Top 10 vulnerabilities]
+- Attack Vectors: White/Gray/Black Box (Web server, Web application, Service ports, etc.)
+- Web Application Vulnerabilities
+- Privilege Escalation Techniques: [Windows, Linux, and other Unix-based systems]
+- Automated and Manual Web Application Vulnerability Assessments
+- API Vulnerabilities
+- Cloud Attacks and Securing Cloud Networks: [AWS, Azure, Google Cloud]
+- Network Forensics
+- Demonstrated Attack/Defense Scenarios
+- Windows Network Attacks
+
+### Professional Acknowledgements
+
+- Recognized by over 30 global companies for contributions to cybersecurity.
+
+### Contact Information
+
+- Biography: [My Biography](https://www.ethanabraham.com/p/bio.html)
+- Private Invites: [ethanabraham@wearehackers.com](mailto:ethanabraham@wearehackers.com)
+- Writings: [My Writings](https://www.ethanabraham.com/writings/) & [Medium](https://medium.com/@ethanabraham_x/)
+- Founder & Head of Security at [THE Cyberdyne](https://www.thecyberdyne.com/) - The Comprehensive Cybersecurity Learning Platform
+- Business Inquiries: [info@ethanabraham.com](mailto:info@ethanabraham.com)
+
+### About Me
+
+I am a cybersecurity researcher from Thiruvalla, Kerala, currently residing in India. I have created several open-source tools, including Insta Paper, Web Spy, Linux Leads, and Twitter Bots. My work spans building APIs and tools for Machine Learning and data systems. My interests include Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TensorFlow, modern backend APIs, and frontend frameworks.
+
+---
