@@ -1,6 +1,6 @@
 ---
 
-I am currently dedicating a significant portion of my time to THE Cyberdyne and my various open-source projects. Additionally, I offer my expertise as an external consultant to a select number of teams and organizations. If you are interested in my assistance with your team and projects, please feel free to [**contact me**](mailto:info@ethanabraham.com). If my open-source projects benefit your product or company, you can also sponsor my work.
+Driving cybersecurity innovation at THE Cyberdyne. Open-source creator. Strategic consultant. Seeking impactful partnerships. Ready to elevate your security? Reach out.
 
 ### Expertise
 
