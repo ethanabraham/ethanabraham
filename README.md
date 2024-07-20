@@ -1,50 +1,38 @@
-Certainly! Here’s a more detailed yet minimalist and aesthetically pleasing version of your GitHub bio:
+# Ethan Abraham
 
----
+## Cybersecurity Innovator | Founder & Head of Security at THE Cyberdyne
 
-**Cybersecurity Innovator | Founder & Head of Security at THE Cyberdyne**
+> Dedicated to advancing cybersecurity through innovation, open-source contributions, and strategic consultancy.
 
-**Open-source Creator and Security Researcher**
-
-I dedicate a significant portion of my time to advancing THE Cyberdyne and developing various open-source projects. Additionally, I offer my expertise as an external consultant to a select number of teams and organizations. If you are interested in leveraging my skills for your team and projects, please feel free to [contact me](mailto:info@ethanabraham.com). If my open-source work benefits your product or company, you are also welcome to sponsor my efforts.
-
-**Expertise:**
+### `#expertise`
 - Penetration Testing (OWASP Top 10)
 - Web Application Vulnerabilities
 - Cloud Security (AWS, Azure, Google Cloud)
 - Network Forensics
-- Privilege Escalation Techniques (Windows, Linux, Unix)
+- Privilege Escalation Techniques
 - API Security
-- Automated and Manual Vulnerability Assessments
+- Automated Vulnerability Assessments
 
-**Projects:**
+### `#projects`
 - Insta Paper
 - Web Spy
 - Linux Leads
 - Twitter Bots
 
-**Technologies:**
-- Machine Learning/AI
-- Distributed Systems
-- SQL and NoSQL Databases
-- Docker
-- Python
-- TensorFlow
+### `#technologies`
+Machine Learning/AI | Distributed Systems | SQL/NoSQL Databases | Docker | Python | TensorFlow
 
-**Acknowledgements:**
-- Recognized by 30+ global companies
+### `#recognition`
+Acknowledged by 30+ global companies for contributions to cybersecurity.
 
-**Connect:**
-- Biography: [My Biography](https://www.ethanabraham.com/p/bio.html)
-- Private Invites: [ethanabraham@wearehackers.com](mailto:ethanabraham@wearehackers.com)
-- Writings: [My Writings](https://www.ethanabraham.com/writings/) & [Medium](https://medium.com/@ethanabraham_x/)
-- Founder & Head of Security at [THE Cyberdyne](https://www.thecyberdyne.com/)
-- Business Inquiries: [info@ethanabraham.com](mailto:info@ethanabraham.com)
-
-I am a cybersecurity researcher from Thiruvalla, Kerala, currently residing in India. I have created several open-source tools, including Insta Paper, Web Spy, Linux Leads, and Twitter Bots. My work spans building APIs and tools for Machine Learning and data systems. My interests include Deep Learning/Machine Learning, distributed systems, SQL and NoSQL databases, Docker, Python, TensorFlow, modern backend APIs, and frontend frameworks.
-
-**Open to impactful collaborations and sponsorships. Let's secure the future together.**
+### `#connect`
+- [Biography](https://www.ethanabraham.com/p/bio.html)
+- [Writings](https://www.ethanabraham.com/writings/) & [Medium](https://medium.com/@ethanabraham_x/)
+- [THE Cyberdyne](https://www.thecyberdyne.com/)
+- [Business Inquiries](mailto:info@ethanabraham.com)
 
 ---
 
-This version balances detail and minimalism, providing a comprehensive overview of your skills, projects, and contact information while maintaining a clean and professional appearance.
+Cybersecurity researcher from Kerala, India. Creator of open-source tools. Passionate about ML, distributed systems, and modern web technologies.
+
+**Open to impactful collaborations and sponsorships. Let's secure the future together.**
