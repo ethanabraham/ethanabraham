@@ -1,6 +1,6 @@
 ---
 
-Security engineer specializing in applied research. Creator of open-source tools for cybersecurity. Contributor to THE Cyberdyne. Focused on innovative defense strategies and vulnerability analysis. Open to collaboration on impactful projects.
+Cybersecurity innovator at THE Cyberdyne. Open-source creator. Security engineer with a focus on applied research. Selective consultant. Let's secure the future together.
 
 ### Expertise
 
