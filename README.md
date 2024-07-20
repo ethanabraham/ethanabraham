@@ -9,11 +9,9 @@ Security engineer specializing in applied research. Creator of open-source tools
 - Web Application Vulnerabilities
 - Privilege Escalation Techniques: [Windows, Linux, and other Unix-based systems]
 - Automated and Manual Web Application Vulnerability Assessments
-- API Vulnerabilities
-- Cloud Attacks and Securing Cloud Networks: [AWS, Azure, Google Cloud]
-- Network Forensics
-- Demonstrated Attack/Defense Scenarios
-- Windows Network Attacks
+- Cloud Attacks and API Vulnerabilities
+- Windows Network Attacks and Securing Cloud Networks: [AWS, Azure, Google Cloud]
+- Network Forensics, Demonstrated Attack/Defense Scenarios
 
 ### Professional Acknowledgements
 
