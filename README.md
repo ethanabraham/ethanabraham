@@ -1,15 +1,24 @@
-Cybersecurity innovator at THE Cyberdyne
-Open-source creator | Security researcher
-Specializing in penetration testing, vulnerability assessment, and applied security research
-Exploring ML/AI in cybersecurity
+Cybersecurity innovator | Founder & Head of Security at THE Cyberdyne
+Open-source creator and security researcher
 
-Creator of Insta Paper, Web Spy, Linux Leads
+Expertise:
+• Penetration testing (OWASP Top 10)
+• Web application vulnerabilities
+• Cloud security (AWS, Azure, Google Cloud)
+• Network forensics
+• Privilege escalation techniques
+• API security
+
+Creator of Insta Paper, Web Spy, Linux Leads, Twitter Bots
+Building tools with ML, distributed systems, Docker, Python, TensorFlow
+
 Acknowledged by 30+ global companies
+Selective consultant for teams and organizations
 
-Open to impactful collaborations
+Connect:
 info@ethanabraham.com
-
-Learn more:
 ethanabraham.com/writings
 medium.com/@ethanabraham_x
 thecyberdyne.com
+
+Open to impactful collaborations and sponsorships
