@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/ethanabraham/ethanabraham/main/resuslt.png" width="100%">
-  <p>Hey 👋, I am Ethan, a security engineer with strong proficiency in computer security and applied security research.</p>
+  <p>Hey 👋, I am Ethan, a security engineer with strong proficiency in computer security and applied security research..</p>
 </div>
 
 ---
