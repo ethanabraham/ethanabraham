@@ -10,7 +10,7 @@
   <a href="https://www.ethanabraham.com/writings/">Writings</a> •
   <a href="https://medium.com/@ethanabraham_x/">Medium</a> •
   <a href="https://www.thecyberdyne.com/">THE Cyberdyne</a> •
-  <a href="mailto:info@ethanabraham.com">Contact</a>
+  <a href="mailto:etha.0440@gmail.com">Contact</a>
 </p>
 ---
 
