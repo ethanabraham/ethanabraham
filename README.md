@@ -1,5 +1,3 @@
-Below is a polished version of your GitHub bio with a forward-looking tone and an aesthetic layout for 2025. Feel free to adjust any details to best reflect your work and personality.
-
 ---
 
 # Hey there, I’m Ethan! 👋
@@ -37,6 +35,3 @@ I’m a **Security Engineer** passionate about bridging the gap between **comput
 > *“Securing tomorrow’s digital landscape starts with understanding today’s vulnerabilities.”*  
 
 Stay connected and stay secure!
-
-Citations:
-[1] https://user-images.githubusercontent.com/4301109g/94873463-3f730f80-041d-11eb-9594-e0185e4ce7ff.p
