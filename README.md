@@ -1,27 +1,42 @@
-<img width="1201" alt="Screenshot 2020-10-01 at 1" src="[https://user-images.githubusercontent.com/4301109g/94873463-3f730f80-041d-11eb-9594-e0185e4ce7ff.png](https://media.licdn.com/dms/image/v2/D5616AQEdNHqnTj8q7A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1723783927213?e=2147483647&v=beta&t=DTxPOOOjACB7Lby_DCSx0vAExqGDHjy6WbzHWK0KRH4)">
+Below is a polished version of your GitHub bio with a forward-looking tone and an aesthetic layout for 2025. Feel free to adjust any details to best reflect your work and personality.
 
-Hey 👋,
+---
 
-I am **Ethan**, a security engineer with strong proficiency in computer security and applied security research.
+# Hey there, I’m Ethan! 👋
+
+I’m a **Security Engineer** passionate about bridging the gap between **computer security** and **applied security research**—constantly exploring cutting-edge threats to protect the digital world.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ethanabrahams/" target="_blank">Profile</a>  /  <a href="https://twitter.com/ethanabraham_1" target="_blank">Social</a>  /  <a href="https://ethanabraham.com/blog/" target="_blank">Blog</a>  /  <a href="https://cyberdyne.com" target="_blank">Services</a>
+  <a href="https://www.linkedin.com/in/ethanabrahams/" target="_blank">Profile</a>  /  
+  <a href="https://twitter.com/ethanabraham_1" target="_blank">Social</a>  /  
+  <a href="https://ethanabraham.com/blog/" target="_blank">Blog</a>  /  
+  <a href="https://cyberdyne.com" target="_blank">Services</a>
 </p>
 
-Cyber Security Professional | Hacker | Security Analyst.
-Acknowledged by 30+ World Wide Companies.
-My Biography: http://ethanabraham.com/p/bio.html
-For Private Invites: ethanabraham@wearehackerone.com
-My Writeups: http://ethanabraham.com/writeups/ && http://ethanabrahams.medium.com/
-Founder & Head of Security at http://www.hackerspunk.com - The Comprehensive Cybersecurity Learning Platform
-Monitoring your externally facing assets has never been easier!
-For business inquiries: infosec@ethanabraham.com
+- **Cyber Security Professional & Hacker**  
+  Recognized by 30+ global companies for leading-edge security research.  
 
-- Penetration testing methods. [OWASP Top 10 vulnerabilities]
-- Attack vectors. White/Gray/Black Box. [Web server, Web application, Service ports,...]
-- Web application vulnerabilities.
-- Privilege escalation techniques. [Windows, Linux and any other *nix]
-- Automated and manual web application vulnerability testing.
-- API vulnerabilities.
-- Cloud attacks and securing cloud networks. [AWS, Azure, Google cloud]
-- Network forensics.
+- **Founder & Head of Security**  
+  [TheCyberdyne.com](http://www.thecyberdyne.com) — a comprehensive cybersecurity learning platform to help you monitor and protect your externally facing assets.  
+
+- **Expertise**  
+  - Penetration testing & threat intelligence (esp. [OWASP Top 10 vulnerabilities])  
+  - Privilege escalation (Windows, Linux, and other *nix systems)  
+  - Web application & API vulnerability exploitation  
+  - Cloud attacks & secure configurations ([AWS, Azure, Google Cloud])  
+  - Network forensics & advanced monitoring  
+
+- **Publications**  
+  - [Biography](http://ethanabraham.com/p/bio.html)  
+  - [Writeups & Case Studies](http://ethanabraham.com/writeups/)  
+  - [Additional Articles](http://ethanabrahams.medium.com/)  
+
+**For Private Invites**: ethanabraham@wearehackerone.com  
+**Business Inquiries**: infosec@ethanabraham.com  
+
+> *“Securing tomorrow’s digital landscape starts with understanding today’s vulnerabilities.”*  
+
+Stay connected and stay secure!
+
+Citations:
+[1] https://user-images.githubusercontent.com/4301109g/94873463-3f730f80-041d-11eb-9594-e0185e4ce7ff.p
