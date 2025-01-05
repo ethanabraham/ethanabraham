@@ -1,4 +1,4 @@
-<img width="1201" alt="Screenshot 2020-10-01 at 1" src="https://user-images.githubusercontent.com/4301109/94873463-3f730f80-041d-11eb-9594-e0185e4ce7ff.png">
+<img width="1201" alt="Screenshot 2020-10-01 at 1" src="https://user-images.githubusercontent.com/4301109/94873463f730f80-041d-11eb-9594-e0185e4ce7ff.png">
 
 Hey 👋,
 
