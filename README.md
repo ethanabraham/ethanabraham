@@ -7,3 +7,21 @@ I am **Ethan**, a security engineer with strong proficiency in computer security
 <p align="center">
   <a href="https://www.linkedin.com/in/ethanabrahams/" target="_blank">Profile</a>  /  <a href="https://twitter.com/ethanabraham_1" target="_blank">Social</a>  /  <a href="https://ethanabraham.com/blog/" target="_blank">Blog</a>  /  <a href="https://cyberdyne.com" target="_blank">Services</a>
 </p>
+
+Cyber Security Professional | Hacker | Security Analyst.
+Acknowledged by 30+ World Wide Companies.
+My Biography: http://ethanabraham.com/p/bio.html
+For Private Invites: ethanabraham@wearehackerone.com
+My Writeups: http://ethanabraham.com/writeups/ && http://ethanabrahams.medium.com/
+Founder & Head of Security at http://www.hackerspunk.com - The Comprehensive Cybersecurity Learning Platform
+Monitoring your externally facing assets has never been easier!
+For business inquiries: infosec@ethanabraham.com
+
+- Penetration testing methods. [OWASP Top 10 vulnerabilities]
+- Attack vectors. White/Gray/Black Box. [Web server, Web application, Service ports,...]
+- Web application vulnerabilities.
+- Privilege escalation techniques. [Windows, Linux and any other *nix]
+- Automated and manual web application vulnerability testing.
+- API vulnerabilities.
+- Cloud attacks and securing cloud networks. [AWS, Azure, Google cloud]
+- Network forensics.
