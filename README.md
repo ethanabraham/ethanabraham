@@ -1,4 +1,4 @@
-<img width="1201" alt="Screenshot 2020-10-01 at 1" src="https://raw.githubusercontent.com/ethanabraham/ethanabraham/refs/heads/main/ethan.png">
+<img width="1201" alt="Screenshot 2020-10-01 at 1" src="https://raw.githubusercontent.com/ethanabraham/ethanabraham/refs/heads/main/ethanabraham.png">
 
 Hey 👋,
 
